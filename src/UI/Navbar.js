@@ -59,7 +59,7 @@ function Navbar() {
                         className={classNames(
                           item.current
                             ? "text-white"
-                            : "text-gray-500 hover:text-pink-700",
+                            : "text-gray-500 hover:text-orange-100",
                           "px-3 py-2 rounded-md text-xl font-medium"
                         )}
                         aria-current={item.current ? "page" : undefined}
@@ -79,7 +79,7 @@ function Navbar() {
                       className={classNames(
                         false
                           ? "text-white"
-                          : "text-gray-500 hover:text-pink-700",
+                          : "text-gray-500 hover:text-orange-100",
                         "px-3 py-2 rounded-md text-xl font-medium"
                       )}
                       aria-current={false ? "page" : undefined}
@@ -124,7 +124,7 @@ function Navbar() {
                   className={classNames(
                     item.current
                       ? "text-white"
-                      : "text-gray-500 hover:text-pink-700",
+                      : "text-gray-500 hover:text-orange-100",
                     "block px-2 py-2 rounded-md text-base font-medium border-2 border-gray-500"
                   )}
                   aria-current={item.current ? "page" : undefined}
@@ -136,7 +136,7 @@ function Navbar() {
                 key="Team"
                 href="/Team"
                 className={classNames(
-                  false ? "text-white" : "text-gray-500 hover:text-pink-700",
+                  false ? "text-white" : "text-gray-500 hover:text-orange-100",
                   "block px-2 py-2 rounded-md text-base font-medium border-2 border-gray-500"
                 )}
                 aria-current={false ? "page" : undefined}
