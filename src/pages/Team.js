@@ -47,15 +47,16 @@ function Team() {
             </div>
           </div>
 
-        <div class="w-full shadow-xl shadow-orange-500/30 border-2 my-4 rounded-md border-slate-100">
-          <h1 class="text-xl">Head OPs</h1>
-          <div class="p-6 grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-3 lg:grid-cols-2 xl:gap-x-8">
-            <Member src="images\VJTI Sports Committee 22-23\Head Ops\Sahil Thakare_.jpg" alt="OPs-Sahil" name="Sahil Thakare"/>
+          <div class="w-full shadow-xl shadow-orange-500/30 border-2 rounded-md my-4 border-slate-100">
+            <h1 class="text-xl">Head OPs</h1>
+            <div class="p-6 grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-3 lg:grid-cols-3 xl:gap-x-8">
+              <Member src="images\VJTI Sports Committee 22-23\Head Ops\Sahil Thakare_.jpg" alt="OPs-Sahil" name="Sahil Thakare"/>
 
-            <Member src="images\VJTI Sports Committee 22-23\Head Ops\Snehil Rughani.jpg" alt="OPs-Snehil" name="Snehil Rughani"/>
+              <Member src="images\VJTI Sports Committee 22-23\Head Ops\Snehil Rughani.jpg" alt="OPs-Snehil" name="Snehil Rughani"/>
 
+              <Member src="images\VJTI Sports Committee 22-23\Head Ops\RahulKumar.Chaure.jpg" alt="OPs-Rahul" name="Rahul Chaure"/>
+            </div>
           </div>
-        </div>
 
         <div class="w-full shadow-xl shadow-orange-500/30 border-2 my-4 rounded-md border-slate-100">
           <h1 class="text-xl">Spons Heads</h1>

@@ -1,8 +1,8 @@
 import React from "react";
-import styles from "./team-name.css";
+import styles from "./Member.module.css";
 import { useState } from "react";
 
-function Member(props) {
+function Member(props, styles) {
   const [isHovering, setIsHovering] = useState(false);
 
   const handleMouseOver = () => {
@@ -28,7 +28,11 @@ function Member(props) {
         />
         <div className={styles.image_overlay}>
           <div className={styles.image_title}>Bricks</div>
-          <p className={styles.image_description}>Here we have a brick wall.</p>
+          <div>
+            <p className={styles.image_description}>
+              Here we have a brick wall.
+            </p>
+          </div>
         </div>
       </div>
       <div class="mt-4 flex justify-between">
