@@ -8,6 +8,17 @@ import Marathon from "./pages/Marathon";
 import Valorant from "./pages/Valorant";
 import BGMI from "./pages/BGMI";
 import Chess_online from "./pages/Chess_online";
+import Football from "./pages/Football";
+import Basketball from "./pages/Basketball";
+import Cricket from "./pages/Cricket";
+import Throwball from "./pages/Throwball";
+import Vollyball from "./pages/Vollyball";
+import Khokho from "./pages/Khokho";
+import Kabadi from "./pages/Kabadi";
+import Swmming from "./pages/Swmming";
+import Tabletennis from "./pages/Tabletennis";
+import Chess from "./pages/Chess";
+import Carrom from "./pages/Carrom";
 import Navbar from "./UI/Navbar";
 import Footer from "./UI/Footer";
 
@@ -25,6 +36,18 @@ function App() {
         <Route path="/valorant" component={Valorant} />
         <Route path="/bgmi" component={BGMI} />
         <Route path="/online-chess" component={Chess_online} />
+        <Route path="/football" component={Football} />
+        <Route path="/basketball" component={Basketball} />
+        <Route path="/cricket" component={Cricket} />
+        <Route path="/throwball" component={Throwball} />
+        <Route path="/vollyball" component={Vollyball} />
+        <Route path="/khokho" component={Khokho} />
+        <Route path="/kabadi" component={Kabadi} />
+        <Route path="/swmming" component={Swmming} />
+        <Route path="/tabletennis" component={Tabletennis} />
+        <Route path="/chess" component={Chess} />
+        <Route path="/carrom" component={Carrom} />
+
       </Switch>
       </Router>
       
