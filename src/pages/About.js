@@ -1,6 +1,8 @@
 import logo from "../enthu-logo.png";
 import styles from "./About.module.css";
-import Member from "../UI/Member.js";
+// import Member from "../UI/Member.js";
+
+import Coursoel from './Coursosel'
 
 function About() {
   return (
@@ -23,50 +25,9 @@ function About() {
 
       <div className="m-4">
         <h1 className="text-2xl">Upcoming events</h1>
-        <span className="text-xl text-pink-700"> (Open to all)</span>
+        <span className="text-xl text-pink-700 "> (Open to all)</span>
 
-        <div class="p-6 grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-2 lg:grid-cols-4 xl:gap-x-8">
-          <a
-            className="border-solid border-2 rounded border-blue-500 p-4"
-            href="/marathon"
-          >
-            <Member
-              name="Marathon (2oth March)"
-              alt="enthusia-marathon-poster"
-              src="https://github.com/DevayaniShivankar/enthu_core/blob/main/posters/Marathon-NON%20VJTIANS.png?raw=true"
-            />
-          </a>
-          <a
-            className="border-solid border-2 rounded border-blue-500 p-4"
-            href="/valorant"
-          >
-            <Member
-              name="Valorant (16th -19th March)"
-              alt="enthusia-valorant-poster"
-              src="https://github.com/DevayaniShivankar/enthu_core/blob/main/posters/Valorant.png?raw=true"
-            />
-          </a>
-          <a
-            className="border-solid border-2 rounded border-blue-500 p-4"
-            href="/bgmi"
-          >
-            <Member
-              name="BGMI (17th -19th March)"
-              alt="enthusia-bgmi-poster"
-              src="https://github.com/DevayaniShivankar/enthu_core/blob/main/posters/BGMI.png?raw=true"
-            />
-          </a>
-          <a
-            className="border-solid border-2 rounded border-blue-500 p-4"
-            href="/online-chess"
-          >
-            <Member
-              name="Chess (16th -17th March)"
-              alt="enthusia-chess-poster"
-              src="https://github.com/DevayaniShivankar/enthu_core/blob/main/posters/Chess.png?raw=true"
-            />
-          </a>
-        </div>
+        <Coursoel />
       </div>
     </div>
   );
