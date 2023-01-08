@@ -7,8 +7,7 @@ import styles from "./Navbar.module.css";
 
 const navigation = [
     { name: 'About', href: '/about', current: false},
-    { name: 'Events', href: '/events', current: false },
-    { name: 'Team', href: '/team', current: false }
+    { name: 'Events', href: '/events', current: false }
   ]
   
   function classNames(...classes) {
@@ -16,6 +15,7 @@ const navigation = [
   }
 
 function Navbar() {
+
     return(<Disclosure as="nav" className="box-content nav-bg pt-1 w-full">
         
     {({ open }) => (
@@ -31,7 +31,7 @@ function Navbar() {
                 ) : (
                   <MenuIcon className="text-dark-grey block h-6 w-6" aria-hidden="true" />
                 )}
-              </Disclosure.Button>
+              </Disclosure.Button>  
             </div>
             <div className="flex-1 flex items-center justify-center sm:justify-start">
               <div className="flex-shrink-0 flex items-center">
@@ -55,11 +55,28 @@ function Navbar() {
                     </a>
                     
                   ))}
-                  
-                    
                 </div>
               
             </div>
+
+            <div className="hidden ml-8 md:block md:ml-3">
+
+                <div className="flex space-x-4">
+
+                
+                  <a
+                      key="Team"
+                      href="/Team"
+                      className={classNames(
+                        false ? 'text-white' : 'text-gray-500 hover:text-pink-700',
+                        'px-3 py-2 rounded-md text-xl font-medium'
+                      )}
+                      aria-current={false ? 'page' : undefined}
+                    >Team</a>
+                    
+                </div>  
+            </div>
+
             </div>
             <div className="absolute inset-y-0 right-0 flex items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0">
 

@@ -24,7 +24,7 @@ import Footer from "./UI/Footer";
 
 function App() {
   return (
-    <div className="App"> 
+    <div className="App">
       <Navbar/>
       <Router>
       <Switch>
