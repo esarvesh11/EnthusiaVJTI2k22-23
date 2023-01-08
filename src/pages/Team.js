@@ -10,7 +10,7 @@ function Team() {
         <div class="gap-8 max-w-2xl mx-auto py-4 px-4 sm:py-2 sm:px-6 lg:max-w-7xl lg:px-8">
           <h2 class="text-3xl uppercase font-extrabold tracking-tight text-gray-200">Core Committee 2k22-23</h2>
 
-          <div class="w-full shadow-xl shadow-blue-500/50 border-2 rounded-md my-4 border-slate-100">
+          <div class="w-full shadow-xl shadow-orange-500/30 border-2 rounded-md my-4 border-slate-100">
             <h1 class="text-xl">SECRETARIES</h1>
             <div class="p-6 grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-3 lg:grid-cols-3 xl:gap-x-8">
               <Member src="images\VJTI Sports Committee 22-23\Secretaries\Aaditya Joshi.JPG" alt="Secretary-Aaditya" name="Aaditya Joshi"/>
@@ -21,7 +21,7 @@ function Team() {
           </div>
         </div>        
 
-        <div class="w-full shadow-xl shadow-blue-500/50 border-2 my-4 rounded-md border-slate-100">
+        <div class="w-full shadow-xl shadow-orange-500/30 border-2 my-4 rounded-md border-slate-100">
           <h1 class="text-xl">TREASURERS</h1>
           <div class="p-6 grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-3 lg:grid-cols-2 xl:gap-x-8">
             <Member src="images\VJTI Sports Committee 22-23\Treasurers\Esha Jain.jpg" alt="Treasurer-Esha" name="Esha Jain"/>
@@ -31,7 +31,7 @@ function Team() {
           </div>
         </div>
 
-        <div class="w-full shadow-xl shadow-blue-500/50 border-2 rounded-md my-4 border-slate-100">
+        <div class="w-full shadow-xl shadow-orange-500/30 border-2 rounded-md my-4 border-slate-100">
             <h1 class="text-xl">EXECUTIVE DIRECTORS</h1>
             <div class="p-6 grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-3 lg:grid-cols-3 xl:gap-x-8">
               <Member src="images\VJTI Sports Committee 22-23\Executive Director\AshwiniPadala.jpg" alt="ED-Ashwini" name="Ashwini Padala"/>
@@ -47,7 +47,7 @@ function Team() {
             </div>
           </div>
 
-        <div class="w-full shadow-xl shadow-blue-500/50 border-2 my-4 rounded-md border-slate-100">
+        <div class="w-full shadow-xl shadow-orange-500/30 border-2 my-4 rounded-md border-slate-100">
           <h1 class="text-xl">Head OPs</h1>
           <div class="p-6 grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-3 lg:grid-cols-2 xl:gap-x-8">
             <Member src="images\VJTI Sports Committee 22-23\Head Ops\Sahil Thakare_.jpg" alt="OPs-Sahil" name="Sahil Thakare"/>
@@ -57,7 +57,7 @@ function Team() {
           </div>
         </div>
 
-        <div class="w-full shadow-xl shadow-blue-500/50 border-2 my-4 rounded-md border-slate-100">
+        <div class="w-full shadow-xl shadow-orange-500/30 border-2 my-4 rounded-md border-slate-100">
           <h1 class="text-xl">Spons Heads</h1>
           <div class="p-6 grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-2 lg:grid-cols-4 xl:gap-x-8">
               <Member src="images\VJTI Sports Committee 22-23\Sponsorship Heads\Akshat Agrawal_.jpg" alt="Spons-Akshat" name="Akshat Agarwal"/>
@@ -71,7 +71,7 @@ function Team() {
           </div>
         </div>
 
-        <div class="w-full shadow-xl shadow-blue-500/50 border-2 my-4 rounded-md border-slate-100">
+        <div class="w-full shadow-xl shadow-orange-500/30 border-2 my-4 rounded-md border-slate-100">
           <h1 class="text-xl">PR Heads</h1>
           <div class="p-6 grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-2 lg:grid-cols-4 xl:gap-x-8">
               <Member src="images\VJTI Sports Committee 22-23\PR Heads\Pratiksha Naik.jpg" alt="PR-Pratiksha" name="Pratiksha Naik"/>
@@ -85,7 +85,7 @@ function Team() {
           </div>
         </div>
 
-        <div class="w-full shadow-xl shadow-blue-500/50 border-2 my-4 rounded-md border-slate-100">
+        <div class="w-full shadow-xl shadow-orange-500/30 border-2 my-4 rounded-md border-slate-100">
           <h1 class="text-xl">Marketing Heads</h1>
           <div class="p-6 grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-2 lg:grid-cols-4 xl:gap-x-8">
               <Member src="images\VJTI Sports Committee 22-23\Marketing Heads\Chinmay Narkhede_.jpg" alt="Marketing-Chinmay" name="Chinmay Narkhede"/>
@@ -99,7 +99,7 @@ function Team() {
           </div>
         </div>
 
-        <div class="w-full shadow-xl shadow-blue-500/50 border-2 my-4 rounded-md border-slate-100">
+        <div class="w-full shadow-xl shadow-orange-500/30 border-2 my-4 rounded-md border-slate-100">
           <h1 class="text-xl">Design Heads</h1>
           <div class="p-6 grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-2 lg:grid-cols-4 xl:gap-x-8">
               <Member src="images\VJTI Sports Committee 22-23\Design Heads\Avani Khadkikar.jpg" alt="Design-Avani" name="Avani Khadkikar"/>
@@ -113,7 +113,7 @@ function Team() {
           </div>
         </div>
 
-        <div class="w-full shadow-xl shadow-blue-500/50 border-2 my-4 rounded-md border-slate-100">
+        <div class="w-full shadow-xl shadow-orange-500/30 border-2 my-4 rounded-md border-slate-100">
           <h1 class="text-xl">Digital Heads</h1>
           <div class="p-6 grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-2 lg:grid-cols-4 xl:gap-x-8">
               <Member src="images\VJTI Sports Committee 22-23\Digital Heads\Deven Choudhari_.jpg" alt="Digital-Deven" name="Deven Choudhari"/>
