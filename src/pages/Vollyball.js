@@ -36,8 +36,9 @@ function Vollyball() {
         
         <div className="flex justify-center cols-2 gap-4">   
             <button class="bg-transparent hover:bg-blue-700 font-sans text-pink-700 font-semibold hover:text-white py-2 mb-4 px-4 border border-pink-700 hover:border-transparent rounded">
-            <a target='_blank' href="https://docs.google.com/forms/d/e/1FAIpQLScM_octxy7_NxxUzJqQU06ZBJvM1xhx3esRHpW4wu_9D26LVQ/viewform">Link</a>
+            <a target='_blank' href="https://docs.google.com/forms/d/e/1FAIpQLSfn3mMGUji5i9mxPs6lZMIpC3K9G0SytVnHE3Wcuo_NtSci3w/viewform">Link</a>
             </button>
+            
         </div> 
 
         <button class="bg-transparent hover:bg-blue-700 font-sans text-blue-500 font-semibold hover:text-white py-2 mb-4 px-4 border border-blue-500 hover:border-transparent rounded">

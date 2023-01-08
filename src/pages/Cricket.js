@@ -36,7 +36,10 @@ function Cricket() {
         
         <div className="flex justify-center cols-2 gap-4">   
             <button class="bg-transparent hover:bg-blue-700 font-sans text-pink-700 font-semibold hover:text-white py-2 mb-4 px-4 border border-pink-700 hover:border-transparent rounded">
-            <a target='_blank' href="https://docs.google.com/forms/d/e/1FAIpQLScM_octxy7_NxxUzJqQU06ZBJvM1xhx3esRHpW4wu_9D26LVQ/viewform">Link</a>
+            <a target='_blank' href="https://docs.google.com/forms/d/e/1FAIpQLSflqqMFIVansfQEcaKPqBQK9wiuXg01aoQRUvqlQuM3xns5Pg/viewform">Cricket (Tennis Ball) Link</a>
+            </button>
+            <button class="bg-transparent hover:bg-blue-700 font-sans text-pink-700 font-semibold hover:text-white py-2 mb-4 px-4 border border-pink-700 hover:border-transparent rounded">
+            <a target='_blank' href="https://docs.google.com/forms/d/e/1FAIpQLSd_NM_vMhnmD98KjztrZNXmku4CoHrObEmaYEZxvYLVZTcHJg/viewform">Cricket (Leather Ball) Link</a>
             </button>
         </div> 
 

@@ -36,7 +36,7 @@ function Throwball() {
         
         <div className="flex justify-center cols-2 gap-4">   
             <button class="bg-transparent hover:bg-blue-700 font-sans text-pink-700 font-semibold hover:text-white py-2 mb-4 px-4 border border-pink-700 hover:border-transparent rounded">
-            <a target='_blank' href="https://docs.google.com/forms/d/e/1FAIpQLScM_octxy7_NxxUzJqQU06ZBJvM1xhx3esRHpW4wu_9D26LVQ/viewform">Link</a>
+            <a target='_blank' href="https://docs.google.com/forms/d/e/1FAIpQLSfSBNRqLCMFvxk4SS99jjmA1ihJeCqdX-AzXr9XNYjlOvfjGQ/viewform">Link</a>
             </button>
         </div> 
 
