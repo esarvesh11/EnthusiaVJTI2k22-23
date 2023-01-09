@@ -14,10 +14,10 @@ function Events() {
             <a href="/football"> <img class="h-80 hover:brightness-125 rounded-2xl scale-150 hover:shadow-xl hover:shadow-cyan-500/30 duration-300 ease-in-out" src='images/Football Final.jpg' alt="couldnt load" /></a>
           </div>
           <div class="rounded-2xl m-6 sm:w-52 cursor-pointer my-24" >
-            <a href="/basketball"><img class="h-80 hover:brightness-125 rounded-2xl scale-150 hover:shadow-xl hover:shadow-blue-500/30 duration-300 ease-in-out" src='images/Basketball Final.jpg' alt="couldnt load" /></a>
+            <a href="/basketball"><img class="h-80 hover:brightness-125 rounded-2xl scale-150 hover:shadow-xl hover:shadow-cyan-500/30 duration-300 ease-in-out" src='images/Basketball Final.jpg' alt="couldnt load" /></a>
           </div>
           <div class=" rounded-2xl m-6 sm:w-52 cursor-pointer my-24" >
-            <a href="/cricket"><img class="h-80 hover:brightness-125 rounded-2xl scale-150 hover:shadow-xl hover:shadow-indigo-500/30 duration-300 ease-in-out" src='images/Cricket Final.jpg' alt="couldnt load" /></a>
+            <a href="/cricket"><img class="h-80 hover:brightness-125 rounded-2xl scale-150 hover:shadow-xl hover:shadow-cyan-500/30 duration-300 ease-in-out" src='images/Cricket Final.jpg' alt="couldnt load" /></a>
           </div>
           <div class="rounded-2xl m-6 sm:w-52 cursor-pointer my-24" >
             <a href="/throwball"><img class="h-80 hover:brightness-125 rounded-2xl scale-150 hover:shadow-xl hover:shadow-cyan-500/30 duration-300 ease-in-out" src='images/Throwball Final.jpg' alt="couldnt load" /></a>

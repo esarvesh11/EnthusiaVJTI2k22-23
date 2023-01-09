@@ -5,30 +5,34 @@ function Throwball() {
        <h1 className="text-2xl p-2">Throwball</h1>
        
        <div className="flex text-blue-500 text-lg justify-center">
-           <div>
-                <img src="images/Throwball Final.jpg" alt="marathon-poster" className="h-96 scale-150 my-28 rounded-2xl" />
-                
-           </div>
-           
-      </div>
+                <div>
+                    <img src="images/Throwball Final.jpg" alt="Throwball-poster" className="h-96 scale-125 my-28 rounded-2xl" />
 
-       <div className="flex text-xl text-slate-200 justify-center">
-           <h2>Participation requirement:</h2>
-       </div>
-       <div className="font-sans text-lg text-bold text-slate-400 mb-4"><p>Team participation</p></div>   
+                </div>
+                <div className="ml-32 mt-20">
+                    <div className="flex text-xl text-slate-200 justify-center mb-5">
+                        <h2>Participation requirement:</h2>
+                    </div>
+                    <div className="font-sans text-xl text-bold text-slate-400 mb-5"><p>Team participation</p></div>
 
-       <div className="flex text-xl text-slate-200 justify-center">
-           <h2>Entry fees:</h2>
-       </div>
-       {/* <div className="font-sans text-lg text-bold text-slate-400">VJTI students - <span className="text-blue-500">180/-</span> <span className="text-pink-700">(this amount will be refunded within 5 working days, post participation)</span></div> */}
-       <div className="font-sans text-lg text-bold text-slate-400 mb-4">Non-VJTIans: <span className="text-blue-500">9v9 : 3000/- , Rink(Boys) : 1600/- , Rink(Girls) : 1400/- (per Team)</span> <span className="text-pink-700">(exclusive of taxes)</span></div>
+                    <div className="flex text-xl text-slate-200 justify-center mb-5">
+                        <h2>Entry fees:</h2>
+                    </div>
+                    {/* <div className="font-sans text-lg text-bold text-slate-400">VJTI students - <span className="text-blue-500">180/-</span> <span className="text-pink-700">(this amount will be refunded within 5 working days, post participation)</span></div> */}
+                    <div className="font-sans text-lg text-bold text-slate-400 ">
+                        <div className="mb-4"> <span className="text-blue-500">9v9 : 3000/- (per Team)</span> <span className="text-pink-700">(exclusive of taxes)</span></div>
+                        <div className="mb-4"> <span className="text-blue-500"> Rink(Boys) : 1600/-(per Team)</span> <span className="text-pink-700">(exclusive of taxes)</span></div>
+                        <div className="mb-4"> <span className="text-blue-500">Rink(Girls) : 1400/- (per Team)</span> <span className="text-pink-700">(exclusive of taxes)</span></div>
+                    </div>
+                    <div className="flex text-xl text-slate-200 justify-center mb-5">
+                        <h2>Prize pool:</h2>
+                    </div>
+                    <div className="font-sans text-lg text-bold text-slate-400 mb-4"><p>9v9 : Rs. 20,000+Trophy</p></div>
+                    <div className="font-sans text-lg text-bold text-slate-400 mb-4"><p>Rink(Boys) : Rs. 8,000+Trophy</p></div>
+                    <div className="font-sans text-lg text-bold text-slate-400 mb-4"><p>Rink(Girls) : Rs. 7,000+Trophy</p></div>
+                </div>
 
-       <div className="flex text-xl text-slate-200 justify-center">
-           <h2>Prize pool:</h2>
-       </div>
-       <div className="font-sans text-lg text-bold text-slate-400 mb-4"><p>9v9 : Rs. 20,000+Trophy</p></div>  
-       <div className="font-sans text-lg text-bold text-slate-400 mb-4"><p>Rink(Boys) : Rs. 8,000+Trophy</p></div>  
-       <div className="font-sans text-lg text-bold text-slate-400 mb-4"><p>Rink(Girls) : Rs. 7,000+Trophy</p></div>  
+            </div>
 
        <div className="flex text-xl text-slate-200 justify-center">
            <h2>Register here:</h2>
