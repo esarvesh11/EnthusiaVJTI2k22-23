@@ -4,7 +4,7 @@ import { Disclosure, Menu, Transition } from "@headlessui/react";
 import { MenuIcon, XIcon } from "@heroicons/react/outline";
 import logo from "../enthu-logo.png";
 import styles from "./Navbar.module.css";
-import Team from "../pages/Team";
+// import Team from "../pages/Team";
 
 const navigation = [
   { name: "About", href: "/about", current: false },
@@ -73,19 +73,25 @@ function Navbar() {
 
                 <div className="hidden ml-8 md:block md:ml-3">
                   <div className="flex space-x-4">
-                    <a
-                      key="Team"
-                      href="/Team"
+                    <div
+                      // key="Team"
+                      // href="/Team"
                       className={classNames(
                         false
                           ? "text-white"
                           : "text-gray-500 hover:text-orange-100",
-                        "px-3 py-2 rounded-md text-xl font-medium"
+                        `px-3 py-2 rounded-md text-xl font-medium relative inline-block ${styles.dropdown}`
                       )}
                       aria-current={false ? "page" : undefined}
                     >
-                      Team
-                    </a>
+                      <span>Teams</span>
+                      <div className={styles.dropdown_content}>
+                        <a href="/Team" className="text-black" >Core Team</a>
+                        <a href="/Team" className="text-black" >MNC Team</a>
+                      </div>
+
+                    </div>
+
                   </div>
                 </div>
               </div>
@@ -132,7 +138,7 @@ function Navbar() {
                   {item.name}
                 </a>
               ))}
-              <a
+              {/* <a
                 key="Team"
                 href="/Team"
                 className={classNames(
@@ -142,7 +148,26 @@ function Navbar() {
                 aria-current={false ? "page" : undefined}
               >
                 Team
-              </a>
+              </a> */}
+              <div
+                // key="Team"
+                // href="/Team"
+                className={classNames(
+                  false
+                    ? "text-white"
+                    : "text-gray-500 hover:text-orange-100",
+                  `px-3 py-2 rounded-md text-xl font-medium border-2 border-gray-500  ${styles.dropdown}`
+                )}
+                aria-current={false ? "page" : undefined}
+              >
+                <span>Teams
+                </span>
+                <div className={styles.dropdown_content}>
+                  <a href="/Team" className="text-black " >Core Team</a>
+                  <a href="/Team" className="text-black" >MNC Team</a>
+                </div>
+
+              </div>
             </div>
           </Disclosure.Panel>
         </>
