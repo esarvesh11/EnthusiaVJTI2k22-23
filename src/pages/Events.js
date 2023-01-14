@@ -10,38 +10,53 @@ function Events() {
         </div>
         {/* displaying cards  */}
         <div class="grid sm:grid-cols-1 sm:justify-center md:gap-10 md:grid-cols-2 lg:grid-cols-3 lg:gap-10 xl:gap-10 xl:grid-cols-4 justify-center px-20 transition-all l">
-          <div class="rounded-2xl m-6 sm:w-52 cursor-pointer my-24" >
-            <a href="/football"> <img class="h-80 hover:brightness-125 rounded-2xl scale-150 hover:shadow-xl hover:shadow-cyan-500/30 duration-300 ease-in-out" src='images/Football Final.jpg' alt="couldnt load" /></a>
+        <div class="rounded-2xl m-6 sm:w-52 cursor-pointer" >
+            <a href="/athletics"><img class="h-64 hover:brightness-110 rounded-2xl scale-125 hover:shadow-xl hover:shadow-cyan-500/30 duration-300 ease-in-out" src='newimages/athletics.png' alt="couldnt load" /></a>
+          <h2 class="text-white mt-2">Athletics</h2>
           </div>
-          <div class="rounded-2xl m-6 sm:w-52 cursor-pointer my-24" >
-            <a href="/basketball"><img class="h-80 hover:brightness-125 rounded-2xl scale-150 hover:shadow-xl hover:shadow-cyan-500/30 duration-300 ease-in-out" src='images/Basketball Final.jpg' alt="couldnt load" /></a>
+          <div class="rounded-2xl m-6 sm:w-52 cursor-pointer " >
+            <a href="/football"> <img class="h-64 hover:brightness-110 rounded-2xl scale-125 hover:shadow-xl hover:shadow-cyan-500/30 duration-300 ease-in-out" src='newimages/Football.png' alt="couldnt load" /></a>
+          <h2 class="text-white mt-2">Football</h2>
           </div>
-          <div class=" rounded-2xl m-6 sm:w-52 cursor-pointer my-24" >
-            <a href="/cricket"><img class="h-80 hover:brightness-125 rounded-2xl scale-150 hover:shadow-xl hover:shadow-cyan-500/30 duration-300 ease-in-out" src='images/Cricket Final.jpg' alt="couldnt load" /></a>
+          <div class="rounded-2xl m-6 sm:w-52 cursor-pointer" >
+            <a href="/basketball"><img class="h-64 hover:brightness-110 rounded-2xl scale-125 hover:shadow-xl hover:shadow-cyan-500/30 duration-300 ease-in-out" src='newimages/Basketball.png' alt="couldnt load" /></a>
+          <h2 class="text-white mt-2">Basketball</h2>
           </div>
-          <div class="rounded-2xl m-6 sm:w-52 cursor-pointer my-24" >
-            <a href="/throwball"><img class="h-80 hover:brightness-125 rounded-2xl scale-150 hover:shadow-xl hover:shadow-cyan-500/30 duration-300 ease-in-out" src='images/Throwball Final.jpg' alt="couldnt load" /></a>
+          <div class=" rounded-2xl m-6 sm:w-52 cursor-pointer" >
+            <a href="/cricket"><img class="h-64 hover:brightness-110 rounded-2xl scale-125 hover:shadow-xl hover:shadow-cyan-500/30 duration-300 ease-in-out" src='newimages/cricket.png' alt="couldnt load" /></a>
+          <h2 class="text-white mt-2">Cricket</h2>
           </div>
-          <div class="rounded-2xl m-6 sm:w-52 cursor-pointer my-24" >
-            <a href="/vollyball"><img class="h-80 hover:brightness-125 rounded-2xl scale-150 hover:shadow-xl hover:shadow-cyan-500/30 duration-300 ease-in-out" src='images/Volleyball Final.jpg' alt="couldnt load" /></a>
+          <div class="rounded-2xl m-6 sm:w-52 cursor-pointer" >
+            <a href="/vollyeball"><img class="h-64 hover:brightness-110 rounded-2xl scale-125 hover:shadow-xl hover:shadow-cyan-500/30 duration-300 ease-in-out" src='newimages/Volleyball2.png' alt="couldnt load" /></a>
+            <h2 class="text-white mt-2">Volleyball</h2>
           </div>
-          <div class="rounded-2xl m-6 sm:w-52 cursor-pointer my-24" >
-            <a href="/khokho"><img class="h-80 hover:brightness-125 rounded-2xl scale-150 hover:shadow-xl hover:shadow-cyan-500/30 duration-300 ease-in-out" src='images/Kho-Kho Final.jpg' alt="couldnt load" /></a>
+          <div class="rounded-2xl m-6 sm:w-52 cursor-pointer" >
+            <a href="/throwball"><img class="h-64 hover:brightness-110 rounded-2xl scale-125 hover:shadow-xl hover:shadow-cyan-500/30 duration-300 ease-in-out" src='newimages/Throwball.png' alt="couldnt load" /></a>
+          <h2 class="text-white mt-2">Throwball</h2>
           </div>
-          <div class="rounded-2xl m-6 sm:w-52 cursor-pointer my-24" >
-            <a href="/kabadi"><img class="h-80 hover:brightness-125 rounded-2xl scale-150 hover:shadow-xl hover:shadow-cyan-500/30 duration-300 ease-in-out" src='images/Kabaddi Final.jpg' alt="couldnt load" /></a>
+          <div class="rounded-2xl m-6 sm:w-52 cursor-pointer" >
+            <a href="/khokho"><img class="h-64 hover:brightness-110 rounded-2xl scale-125 hover:shadow-xl hover:shadow-cyan-500/30 duration-300 ease-in-out" src='newimages/Kho Kho.png' alt="couldnt load" /></a>
+          <h2 class="text-white mt-2">Kho-Kho</h2>
           </div>
-          <div class="rounded-2xl m-6 sm:w-52 cursor-pointer my-24" >
-            <a href="/swmming"><img class="h-80 hover:brightness-125 rounded-2xl scale-150 hover:shadow-xl hover:shadow-cyan-500/30 duration-300 ease-in-out" src='images/Swimming Final.jpg' alt="couldnt load" /></a>
+          <div class="rounded-2xl m-6 sm:w-52 cursor-pointer" >
+            <a href="/kabadi"><img class="h-64 hover:brightness-110 rounded-2xl scale-125 hover:shadow-xl hover:shadow-cyan-500/30 duration-300 ease-in-out" src='newimages/Kabaddi.png' alt="couldnt load" /></a>
+          <h2 class="text-white mt-2">Kabadi</h2>
           </div>
-          <div class="rounded-2xl m-6 sm:w-52 cursor-pointer my-24" >
-            <a href="/tabletennis"><img class="h-80 hover:brightness-125 rounded-2xl scale-150 hover:shadow-xl hover:shadow-cyan-500/30 duration-300 ease-in-out" src='images/Table Tennis Final.jpg' alt="couldnt load" /></a>
+          <div class="rounded-2xl m-6 sm:w-52 cursor-pointer" >
+            <a href="/swmming"><img class="h-64 hover:brightness-125 rounded-2xl scale-125 hover:shadow-xl hover:shadow-cyan-500/30 duration-300 ease-in-out" src='newimages/Swimming2.png' alt="couldnt load" /></a>
+          <h2 class="text-white mt-2">Swmming</h2>
           </div>
-          <div class="rounded-2xl m-6 sm:w-52 cursor-pointer my-24" >
-            <a href="/chess"><img class="h-80 hover:brightness-125 rounded-2xl scale-150 hover:shadow-xl hover:shadow-cyan-500/30 duration-300 ease-in-out" src='images/Chess Final.jpg' alt="couldnt load" /></a>
+          <div class="rounded-2xl m-6 sm:w-52 cursor-pointer" >
+            <a href="/tabletennis"><img class="h-64 hover:brightness-110 rounded-2xl scale-125 hover:shadow-xl hover:shadow-cyan-500/30 duration-300 ease-in-out" src='newimages/Table Tennis.png' alt="couldnt load" /></a>
+          <h2 class="text-white mt-2">Table Tennis</h2>
           </div>
-          <div class="rounded-2xl m-6 sm:w-52 cursor-pointer my-24" >
-            <a href="/carrom"><img class="h-80 hover:brightness-125 rounded-2xl scale-150 hover:shadow-xl hover:shadow-cyan-500/30 duration-300 ease-in-out" src='images/Carrom Final.jpg' alt="couldnt load" /></a>
+          <div class="rounded-2xl m-6 sm:w-52 cursor-pointer" >
+            <a href="/chess"><img class="h-64 hover:brightness-110 rounded-2xl scale-125 hover:shadow-xl hover:shadow-cyan-500/30 duration-300 ease-in-out" src='newimages/Chess1.png' alt="couldnt load" /></a>
+          <h2 class="text-white mt-2">Chess</h2>
+          </div>
+          <div class="rounded-2xl m-6 sm:w-52 cursor-pointer" >
+            <a href="/carrom"><img class="h-64 hover:brightness-110 rounded-2xl scale-125 hover:shadow-xl hover:shadow-cyan-500/30 duration-300 ease-in-out" src='newimages/Carrom.png' alt="couldnt load" /></a>
+          <h2 class="text-white mt-2">Carrom</h2>
           </div>
 
         </div>

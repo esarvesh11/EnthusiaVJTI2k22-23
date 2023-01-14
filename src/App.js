@@ -10,9 +10,10 @@ import BGMI from "./pages/BGMI";
 import Chess_online from "./pages/Chess_online";
 import Football from "./pages/Football";
 import Basketball from "./pages/Basketball";
+import Athletics from "./pages/Athletics";
 import Cricket from "./pages/Cricket";
 import Throwball from "./pages/Throwball";
-import Vollyball from "./pages/Vollyball";
+import Vollyball from "./pages/Vollyeball";
 import Khokho from "./pages/Khokho";
 import Kabadi from "./pages/Kabadi";
 import Swmming from "./pages/Swmming";
@@ -47,6 +48,7 @@ function App() {
         <Route path="/tabletennis" component={Tabletennis} />
         <Route path="/chess" component={Chess} />
         <Route path="/carrom" component={Carrom} />
+        <Route path="/athletics" component={Athletics} />
 
       </Switch>
       </Router>

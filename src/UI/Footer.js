@@ -176,7 +176,7 @@ function Footer() {
           </div>
         </div>
       </div>
-      <div class="text-center font-sans p-6 bg-gray-200">
+      <div class="text-center font-sans mb-5">
         <span>© 2022 Copyright: ENTHUSIA VJTI. All rights reserved.</span>
       </div>
     </footer>

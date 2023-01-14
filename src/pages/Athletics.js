@@ -1,12 +1,12 @@
 
-function Vollyball() {
+function Athletics() {
     return (
         <div className="box-content mb-8 w-full">
-       <h1 className="text-2xl p-2">Vollyball</h1>
-       
-       <div className="flex text-blue-500 text-lg justify-center">
+            <h1 className="text-2xl p-2">Athletics</h1>
+
+            <div className="flex text-blue-500 text-lg justify-center">
                 <div>
-                    <img src="images/Volleyball Final.jpg" alt="Vollyball-poster" className="h-96 scale-125 my-28 rounded-2xl" />
+                    <img src="images/Carrom Final.jpg" alt="Carrom poster" className="h-96 scale-125 my-28 rounded-2xl" />
 
                 </div>
                 <div className="ml-32 mt-20">
@@ -34,24 +34,22 @@ function Vollyball() {
 
             </div>
 
+            <div className="flex text-xl text-slate-200 justify-center">
+                <h2>Register here:</h2>
+            </div>
 
-       <div className="flex text-xl text-slate-200 justify-center">
-           <h2>Register here:</h2>
-       </div>
-        
-        <div className="flex justify-center cols-2 gap-4">   
-            <button class="bg-transparent hover:bg-blue-700 font-sans text-pink-700 font-semibold hover:text-white py-2 mb-4 px-4 border border-pink-700 hover:border-transparent rounded">
-            <a target='_blank' href="https://docs.google.com/forms/d/e/1FAIpQLSfn3mMGUji5i9mxPs6lZMIpC3K9G0SytVnHE3Wcuo_NtSci3w/viewform">Link</a>
-            </button>
-            
-        </div> 
+            <div className="flex justify-center cols-2 gap-4">
+                <button class="bg-transparent hover:bg-blue-700 font-sans text-pink-700 font-semibold hover:text-white py-2 mb-4 px-4 border border-pink-700 hover:border-transparent rounded">
+                    <a target='_blank' href="https://docs.google.com/forms/d/e/1FAIpQLScksw4nyuNPJ-lCyHcqa15CjCYPadP-N7kTI6ftaqWpkdUItw/viewform">Link</a>
+                </button>
+            </div>
 
-        <button class="bg-transparent hover:bg-blue-700 font-sans text-blue-500 font-semibold hover:text-white py-2 mb-4 px-4 border border-blue-500 hover:border-transparent rounded">
-            <a target='_blank' href="">Event brochure</a>
+            <button class="bg-transparent hover:bg-blue-700 font-sans text-blue-500 font-semibold hover:text-white py-2 mb-4 px-4 border border-blue-500 hover:border-transparent rounded">
+                <a target='_blank' href="">Event brochure</a>
             </button>
 
-    </div>
+        </div>
     )
 }
 
-export default Vollyball;
+export default Athletics;
