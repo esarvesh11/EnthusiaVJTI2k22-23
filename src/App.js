@@ -13,7 +13,7 @@ import Basketball from "./pages/Basketball";
 import Athletics from "./pages/Athletics";
 import Cricket from "./pages/Cricket";
 import Throwball from "./pages/Throwball";
-import Vollyball from "./pages/Vollyeball";
+import Volleyball from "./pages/Volleyball";
 import Khokho from "./pages/Khokho";
 import Kabadi from "./pages/Kabadi";
 import Swmming from "./pages/Swmming";
@@ -41,7 +41,7 @@ function App() {
         <Route path="/basketball" component={Basketball} />
         <Route path="/cricket" component={Cricket} />
         <Route path="/throwball" component={Throwball} />
-        <Route path="/vollyball" component={Vollyball} />
+        <Route path="/volleyball" component={Volleyball} />
         <Route path="/khokho" component={Khokho} />
         <Route path="/kabadi" component={Kabadi} />
         <Route path="/swmming" component={Swmming} />

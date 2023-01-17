@@ -27,7 +27,7 @@ function Events() {
           <h2 class="text-white mt-2">Cricket</h2>
           </div>
           <div class="rounded-2xl m-6 sm:w-52 cursor-pointer" >
-            <a href="/vollyeball"><img class="h-64 hover:brightness-110 rounded-2xl scale-125 hover:shadow-xl hover:shadow-cyan-500/30 duration-300 ease-in-out" src='newimages/Volleyball2.png' alt="couldnt load" /></a>
+            <a href="/volleyball"><img class="h-64 hover:brightness-110 rounded-2xl scale-125 hover:shadow-xl hover:shadow-cyan-500/30 duration-300 ease-in-out" src='newimages/Volleyball2.png' alt="couldnt load" /></a>
             <h2 class="text-white mt-2">Volleyball</h2>
           </div>
           <div class="rounded-2xl m-6 sm:w-52 cursor-pointer" >
