@@ -84,10 +84,10 @@ function Navbar() {
                       )}
                       aria-current={false ? "page" : undefined}
                     >
-                      <span>Teams</span>
+                      <span style={{textDecoration: "underline"}} >Teams</span>
                       <div className={styles.dropdown_content}>
                         <a href="/Team" className="text-black" >Core Team</a>
-                        <a href="/Team" className="text-black" >MNC Team</a>
+                        <a href="/Team_MNC" className="text-black" >MNC Team</a>
                       </div>
 
                     </div>
@@ -164,7 +164,7 @@ function Navbar() {
                 </span>
                 <div className={styles.dropdown_content}>
                   <a href="/Team" className="text-black " >Core Team</a>
-                  <a href="/Team" className="text-black" >MNC Team</a>
+                  <a href="/Team_MNC" className="text-black" >MNC Team</a>
                 </div>
 
               </div>

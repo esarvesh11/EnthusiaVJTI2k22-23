@@ -1,4 +1,3 @@
-
 import styles from "./About.module.css";
 // import Member from "../UI/Member.js";
 import Carousal from "./Carousal";

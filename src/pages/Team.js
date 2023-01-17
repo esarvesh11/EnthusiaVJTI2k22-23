@@ -23,7 +23,7 @@ function Team() {
 
         <div class="w-full shadow-xl shadow-orange-500/30 border-2 my-4 rounded-md border-slate-100">
           <h1 class="text-xl">TREASURERS</h1>
-          <div class="p-6 grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-3 lg:grid-cols-2 xl:gap-x-8">
+          <div class="p-6 grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-2 lg:grid-cols-2 xl:gap-x-8">
             <Member src="images\VJTI Sports Committee 22-23\Treasurers\Esha Jain.jpg" alt="Treasurer-Esha" name="Esha Jain"/>
 
             <Member src="images\VJTI Sports Committee 22-23\Treasurers\Yash Kabra.jpg" alt="Treasurer-Yash" name="Yash Kabra"/>
@@ -34,13 +34,9 @@ function Team() {
         <div class="w-full shadow-xl shadow-orange-500/30 border-2 rounded-md my-4 border-slate-100">
             <h1 class="text-xl">EXECUTIVE DIRECTORS</h1>
             <div class="p-6 grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-3 lg:grid-cols-3 xl:gap-x-8">
-              <Member src="images\VJTI Sports Committee 22-23\Executive Director\AshwiniPadala.jpg" alt="ED-Ashwini" name="Ashwini Padala"/>
-
               <Member src="images\VJTI Sports Committee 22-23\Executive Director\Chirag Kathoye.jpg" alt="ED-Chirag" name="Chirag Kathoye"/>
 
               <Member src="images\VJTI Sports Committee 22-23\Executive Director\Diya Rajeevan.jpg" alt="ED-Diya" name="Diya Rajeevan"/>
-
-              <Member src="images\VJTI Sports Committee 22-23\Executive Director\Priya Mali.jpg" alt="ED-Priya" name="Priya Mali"/>
 
               <Member src="images\VJTI Sports Committee 22-23\Executive Director\Sam Fernandes_.jpg" alt="ED-Sam" name="Sam Fernandes"/>
 
@@ -124,6 +120,16 @@ function Team() {
               <Member src="images\VJTI Sports Committee 22-23\Digital Heads\Sarvesh Shirude.jpg" alt="Digital-Sarvesh" name="Sarvesh Shirude"/>
 
               <Member src="images\VJTI Sports Committee 22-23\Digital Heads\Sharayu Korade.jpg" alt="Digital-Sharayu" name="Sharayu Korade"/>
+
+          </div>
+        </div>
+
+        <div class="w-full shadow-xl shadow-orange-500/30 border-2 my-4 rounded-md border-slate-100">
+          <h1 class="text-xl">Web Developer Heads</h1>
+          <div class="p-6 grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-2 lg:grid-cols-2 xl:gap-x-8">
+            <Member src="images\VJTI Sports Committee 22-23\Web Dev Heads\Aman Singh.jpg" alt="Web_Dev-Aman" name="Aman Singh"/>
+
+            <Member src="images\VJTI Sports Committee 22-23\Treasurers\Yash Kabra.jpg" alt="Web_Dev-Vishal" name="Vishal Dhanger"/>
 
           </div>
         </div>
