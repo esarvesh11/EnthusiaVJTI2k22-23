@@ -23,7 +23,7 @@ function Team() {
 
         <div class="w-full shadow-xl shadow-orange-500/30 border-2 my-4 rounded-md border-slate-100">
           <h1 class="text-xl">TREASURERS</h1>
-          <div class="p-6 grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-2 lg:grid-cols-2 xl:gap-x-8">
+          <div class="p-6 flex flex-wrap justify-evenly">
             <Member src="images\VJTI Sports Committee 22-23\Treasurers\Esha Jain.jpg" alt="Treasurer-Esha" name="Esha Jain"/>
 
             <Member src="images\VJTI Sports Committee 22-23\Treasurers\Yash Kabra.jpg" alt="Treasurer-Yash" name="Yash Kabra"/>
@@ -126,7 +126,7 @@ function Team() {
 
         <div class="w-full shadow-xl shadow-orange-500/30 border-2 my-4 rounded-md border-slate-100">
           <h1 class="text-xl">Web Developer Heads</h1>
-          <div class="p-6 grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-2 lg:grid-cols-2 xl:gap-x-8">
+          <div class="p-6 flex flex-wrap justify-evenly">
             <Member src="images\VJTI Sports Committee 22-23\Web Dev Heads\Aman Singh.jpg" alt="Web_Dev-Aman" name="Aman Singh"/>
 
             <Member src="images\VJTI Sports Committee 22-23\Treasurers\Yash Kabra.jpg" alt="Web_Dev-Vishal" name="Vishal Dhanger"/>
