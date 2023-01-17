@@ -4,7 +4,7 @@
 import { Carousel } from "react-bootstrap";
 import styles from "./Carousal.module.css"
 
-import '../../node_modules/bootstrap/dist/css/bootstrap.min.css'
+// import '../../node_modules/bootstrap/dist/css/bootstrap.min.css'
 
 function Carousal() {
     return (
