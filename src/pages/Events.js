@@ -10,10 +10,7 @@ function Events() {
         </div>
         {/* displaying cards  */}
         <div class="grid sm:grid-cols-1 sm:justify-center md:gap-10 md:grid-cols-2 lg:grid-cols-3 lg:gap-10 xl:gap-10 xl:grid-cols-4 justify-center px-20 transition-all l">
-        <div class="rounded-2xl m-6 sm:w-52 cursor-pointer" >
-            <a href="/athletics"><img class="h-64 hover:brightness-110 rounded-2xl scale-125 hover:shadow-xl hover:shadow-cyan-500/30 duration-300 ease-in-out" src='newimages/athletics.png' alt="couldnt load" /></a>
-          <h2 class="text-white mt-2">Athletics</h2>
-          </div>
+        
           <div class="rounded-2xl m-6 sm:w-52 cursor-pointer " >
             <a href="/football"> <img class="h-64 hover:brightness-110 rounded-2xl scale-125 hover:shadow-xl hover:shadow-cyan-500/30 duration-300 ease-in-out" src='newimages/Football.png' alt="couldnt load" /></a>
           <h2 class="text-white mt-2">Football</h2>
@@ -46,15 +43,15 @@ function Events() {
             <a href="/swmming"><img class="h-64 hover:brightness-125 rounded-2xl scale-125 hover:shadow-xl hover:shadow-cyan-500/30 duration-300 ease-in-out" src='newimages/Swimming2.png' alt="couldnt load" /></a>
           <h2 class="text-white mt-2">Swmming</h2>
           </div>
-          <div class="rounded-2xl m-6 sm:w-52 cursor-pointer" >
+          <div class="rounded-2xl m-6 sm:w-52 cursor-pointer xl:ml-48" >
             <a href="/tabletennis"><img class="h-64 hover:brightness-110 rounded-2xl scale-125 hover:shadow-xl hover:shadow-cyan-500/30 duration-300 ease-in-out" src='newimages/Table Tennis.png' alt="couldnt load" /></a>
           <h2 class="text-white mt-2">Table Tennis</h2>
           </div>
-          <div class="rounded-2xl m-6 sm:w-52 cursor-pointer" >
+          <div class="rounded-2xl m-6 sm:w-52 cursor-pointer xl:ml-48" >
             <a href="/chess"><img class="h-64 hover:brightness-110 rounded-2xl scale-125 hover:shadow-xl hover:shadow-cyan-500/30 duration-300 ease-in-out" src='newimages/Chess1.png' alt="couldnt load" /></a>
           <h2 class="text-white mt-2">Chess</h2>
           </div>
-          <div class="rounded-2xl m-6 sm:w-52 cursor-pointer" >
+          <div class="rounded-2xl m-6 sm:w-52 cursor-pointer xl:ml-48" >
             <a href="/carrom"><img class="h-64 hover:brightness-110 rounded-2xl scale-125 hover:shadow-xl hover:shadow-cyan-500/30 duration-300 ease-in-out" src='newimages/Carrom.png' alt="couldnt load" /></a>
           <h2 class="text-white mt-2">Carrom</h2>
           </div>

@@ -45,8 +45,8 @@ function Cricket() {
                 </button>
             </div>
             <button class="bg-transparent hover:bg-blue-700 font-sans text-blue-500 font-semibold hover:text-white py-2 mb-4 px-4 border border-blue-500 hover:border-transparent rounded">
-                <a target='_blank' href="">Event brochure</a>
-            </button>
+                    <a target='_blank' href="https://drive.google.com/file/d/1ePskeeiTcCCoXLc3SxukoN9NcIh6kWAD/view">Rule Book</a>
+                </button>
 
         </div>
     )
