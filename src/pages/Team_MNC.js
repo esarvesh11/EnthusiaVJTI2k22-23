@@ -7,7 +7,7 @@ function Team_MNC() {
       
       <div class="">
       
-        <div class="gap-8 max-w-xl mx-auto py-4 px-4 sm:py-2 sm:px-6 lg:max-w-5xl lg:px-8">
+        <div class="gap-8 max-w-xl mx-auto py-4 px-4 sm:py-2 sm:px-6 lg:max-w-3xl lg:px-8">
           <h2 class="text-3xl uppercase font-extrabold tracking-tight text-gray-200">MNC Core Committee 2k22-23</h2>       
 
         <div class="w-full shadow-xl shadow-orange-500/30 border-2 my-4 rounded-md border-slate-100">
@@ -22,12 +22,8 @@ function Team_MNC() {
 
         <div class="w-full shadow-xl shadow-orange-500/30 border-2 rounded-md my-4 border-slate-100">
             <h1 class="text-xl">Head OPs</h1>
-            <div class="p-6 grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-3 lg:grid-cols-3 xl:gap-x-8">
-              <Member/>
-
+            <div class="p-6 flex flex-wrap justify-center">
               <Member src="images\VJTI Sports Committee 22-23\MNC main\MNC Ops\Vedant_Tichkule.jpg" alt="OPs-Vedant" name="Vedant Tichkule"/>
-
-              <Member/>
             </div>
         </div>
 
@@ -73,13 +69,9 @@ function Team_MNC() {
         </div>
 
         <div class="w-full shadow-xl shadow-orange-500/30 border-2 my-4 rounded-md border-slate-100">
-          <h1 class="text-xl">Digital Heads</h1>
-          <div class="p-6 grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-3 lg:grid-cols-3 xl:gap-x-8">
-            <Member/>
-
+          <h1 class="text-xl">Digital Head</h1>
+          <div class="p-6 flex flex-wrap justify-center">
             <Member src="images\VJTI Sports Committee 22-23\MNC main\MNC Digital\Vishwesh Jadhav.jpg" alt="Digital-Vishwesh" name="Vishwesh Jadhav"/>
-
-            <Member/>
           </div>
         </div>
 

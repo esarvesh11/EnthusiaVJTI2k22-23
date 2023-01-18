@@ -54,6 +54,16 @@ function Team() {
             </div>
           </div>
 
+          {/* <div class="w-full shadow-xl shadow-orange-500/30 border-2 my-4 rounded-md border-slate-100">
+          <h1 class="text-xl">MNC Heads</h1>
+          <div class="p-6 flex flex-wrap justify-evenly">
+            <Member src="images\VJTI Sports Committee 22-23\MNC main\MNC Heads\KARTEEK NAYAK.jpg" alt="Head-Karteek" name="Karteek Nayak"/>
+
+            <Member src="images\VJTI Sports Committee 22-23\MNC main\MNC Heads\Sayali Fegade.jpg" alt="Head-Sayali" name="Sayali Fegade"/>
+
+          </div>
+        </div> */}
+
         <div class="w-full shadow-xl shadow-orange-500/30 border-2 my-4 rounded-md border-slate-100">
           <h1 class="text-xl">Spons Heads</h1>
           <div class="p-6 grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-2 lg:grid-cols-4 xl:gap-x-8">
@@ -124,12 +134,67 @@ function Team() {
           </div>
         </div>
 
+        {/* <div class="w-full shadow-xl shadow-orange-500/30 border-2 rounded-md my-4 border-slate-100">
+            <h1 class="text-xl">MNC Head OPs</h1>
+            <div class="p-6 flex flex-wrap justify-center">
+              <Member src="images\VJTI Sports Committee 22-23\MNC main\MNC Ops\Vedant_Tichkule.jpg" alt="OPs-Vedant" name="Vedant Tichkule"/>
+            </div>
+        </div>
+
+        <div class="w-full shadow-xl shadow-orange-500/30 border-2 my-4 rounded-md border-slate-100">
+          <h1 class="text-xl">MNC Spons Heads</h1>
+          <div class="p-6 flex flex-wrap justify-evenly">
+            <Member src="images\VJTI Sports Committee 22-23\MNC main\MNC Sponsorship\Anshika Shinde.jpg" alt="Spons-Anshika" name="Anshika Shinde"/>
+
+            <Member src="images\VJTI Sports Committee 22-23\MNC main\MNC Sponsorship\Siddhant Waghanna.jpg" alt="Spons-Siddhant" name="Siddhant Waghanna"/>
+
+          </div>
+        </div>
+
+        <div class="w-full shadow-xl shadow-orange-500/30 border-2 rounded-md my-4 border-slate-100">
+            <h1 class="text-xl">MNC PR Heads</h1>
+            <div class="p-6 flex flex-wrap justify-evenly">
+              <Member src="images\VJTI Sports Committee 22-23\MNC main\MNC PR\Brajesh Patil.jpg" alt="PR-Brajesh" name="Brajesh Patil"/>
+
+              <Member src="images\VJTI Sports Committee 22-23\MNC main\MNC PR\Kimaya Mutha.jpeg" alt="PR-Kimaya" name="Kimaya Mutha"/>
+
+              <Member src="images\VJTI Sports Committee 22-23\MNC main\MNC PR\Saumil Parsodkar .JPG" alt="PR-Saumil" name="Saumil Parsodkar"/>
+            </div>
+          </div>
+
+        <div class="w-full shadow-xl shadow-orange-500/30 border-2 my-4 rounded-md border-slate-100">
+          <h1 class="text-xl">MNC Marketing Heads</h1>
+          <div class="p-6 flex flex-wrap justify-evenly">
+            <Member src="images\VJTI Sports Committee 22-23\MNC main\MNC Marketing\Rohit Talande.jpeg" alt="Marketing-Rohit" name="Rohit Talande"/>
+
+            <Member src="images\VJTI Sports Committee 22-23\MNC main\MNC Marketing\Sakshi Hiroji .jpg" alt="Marketing-Sakshi" name="Sakshi Hiroji"/>
+
+          </div>
+        </div>
+
+        <div class="w-full shadow-xl shadow-orange-500/30 border-2 my-4 rounded-md border-slate-100">
+          <h1 class="text-xl">MNC Design Heads</h1>
+          <div class="p-6 flex flex-wrap justify-evenly">
+            <Member src="images\VJTI Sports Committee 22-23\MNC main\MNC Design\AadityaPatil.jpg" alt="Design-Aaditya" name="Aaditya Patil"/>
+
+            <Member src="images\VJTI Sports Committee 22-23\MNC main\MNC Design\Prajakta Barde.jpg" alt="Design-Aaditya" name="Prajakta Barde"/>
+
+          </div>
+        </div>
+
+        <div class="w-full shadow-xl shadow-orange-500/30 border-2 my-4 rounded-md border-slate-100">
+          <h1 class="text-xl">MNC Digital Head</h1>
+          <div class="p-6 flex flex-wrap justify-center">
+            <Member src="images\VJTI Sports Committee 22-23\MNC main\MNC Digital\Vishwesh Jadhav.jpg" alt="Digital-Vishwesh" name="Vishwesh Jadhav"/>
+          </div>
+        </div> */}
+
         <div class="w-full shadow-xl shadow-orange-500/30 border-2 my-4 rounded-md border-slate-100">
           <h1 class="text-xl">Web Developer Heads</h1>
           <div class="p-6 flex flex-wrap justify-evenly">
             <Member src="images\VJTI Sports Committee 22-23\Web Dev Heads\Aman Singh.jpg" alt="Web_Dev-Aman" name="Aman Singh"/>
 
-            <Member src="images\VJTI Sports Committee 22-23\Treasurers\Yash Kabra.jpg" alt="Web_Dev-Vishal" name="Vishal Dhanger"/>
+            <Member src="https://pbs.twimg.com/profile_images/1592419201058484224/oR3Djqw2.jpg" alt="Web_Dev-Vishal" name="Vishal Dhanger"/>
 
           </div>
         </div>

@@ -39,12 +39,12 @@ function Navbar() {
               <div className="flex-1 flex items-center justify-center sm:justify-start">
                 <div className="flex-shrink-0 flex items-center">
                   <img src={logo} className={styles.logo} alt="logo" />
-                  <a href="/">
+                  <a style={{textDecoration: "none"}} href="/">
                     <h1 className="block lg:hidden h-8 w-auto font-bold text-lg">
                       ENTHUSIA
                     </h1>
                   </a>
-                  <a href="/">
+                  <a style={{textDecoration: "none"}} href="/">
                     <h1 className="hidden lg:block w-64 font-bold text-2xl">
                       ENTHUSIA, VJTI
                     </h1>
@@ -53,14 +53,14 @@ function Navbar() {
                 <div className="hidden ml-8 md:block md:ml-6">
                   <div className="flex space-x-4">
                     {navigation.map((item) => (
-                      <a
+                      <a 
                         key={item.name}
                         href={item.href}
                         className={classNames(
                           item.current
                             ? "text-white"
                             : "text-gray-500 hover:text-orange-100",
-                          "px-3 py-2 rounded-md text-xl font-medium"
+                          "px-3 py-2 rounded-md text-xl font-medium no-underline"
                         )}
                         aria-current={item.current ? "page" : undefined}
                       >

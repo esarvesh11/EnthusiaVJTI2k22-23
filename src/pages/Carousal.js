@@ -2,9 +2,9 @@
 // import styles from "./About.module.css";
 // import Member from "../UI/Member.js";
 import { Carousel } from "react-bootstrap";
-import styles from "./Carousal.module.css"
+import styles from "./Carousal.module.css";
 
-// import '../../node_modules/bootstrap/dist/css/bootstrap.min.css'
+import '../../node_modules/bootstrap/dist/css/bootstrap.min.css';
 
 function Carousal() {
     return (
@@ -14,7 +14,7 @@ function Carousal() {
             <Carousel pause="false">
                 <Carousel.Item >
                     <img
-                        className="d-block w-100 "
+                        className="d-block w-100"
                         src="https://github.com/vishaldhangar15/Images/blob/main/cyc_final.jpg?raw=true"
                         alt="First slide"
                     />

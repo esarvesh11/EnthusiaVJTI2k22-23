@@ -9,22 +9,29 @@
     animation-direction: alternate;
     animation-iteration-count: infinite;
     
-  }
-  @keyframes bounce { 
-    0% { transform: translateY(0); }
-    100% { transform: translateY(-25px); }
-  }
-  
-  h1, h2 {
-    margin: 1% 0;
-  }
-  
-  h1 {
-    color: #f89d2f;
-  }
-  
-  .button:hover{
-    stroke:#ff0;
-    stroke-dasharray:200 60;
-    stroke-dashoffset:0;
-  }
+}
+
+/* .container {
+  background-image: url("/public/images/website\ bg\ \(3\).png");
+  background-repeat: no-repeat;
+  background-size: contain;
+} */
+
+@keyframes bounce { 
+  0% { transform: translateY(0); }
+  100% { transform: translateY(-25px); }
+}
+
+h1, h2 {
+  margin: 1% 0;
+}
+
+h1 {
+  color: #f89d2f;
+}
+
+.button:hover{
+  stroke:#ff0;
+  stroke-dasharray:200 60;
+  stroke-dashoffset:0;
+}

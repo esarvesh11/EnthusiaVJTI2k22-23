@@ -1,5 +1,5 @@
 import React from "react";
-import { useState } from "react";
+// import { useState } from "react";
 
 function Member(props, styles) {
   // const [isHovering, setIsHovering] = useState(false);
@@ -17,13 +17,14 @@ function Member(props, styles) {
       <div
         // onMouseOver={handleMouseOver}
         // onMouseOut={handleMouseOut}
-        class="w-full min-h-80 bg-gray-200 aspect-w-1 aspect-h-1 rounded-md overflow-hidden group-hover:opacity-75 lg:h-80 lg:aspect-none"
+        class="w-full min-h-80 bg-gray-200 aspect-w-1 aspect-h-1 rounded-md overflow-hidden group-hover:opacity-50 lg:h-80 lg:aspect-none"
       >
         <img
+          // style={{height: "45vh"}}
           src={props.src}
           alt={props.alt}
-          // style={{ width: "125%", height: "75%" }} 
-          class="w-full h-full object-center object-cover lg:w-full lg:h-full"
+          style={{ width: "125%", height: "125%" }} 
+          class="w-full object-center object-cover lg:w-full lg:h-full"
         />
         {/* <div className={styles.image_overlay}>
           <div className={styles.image_title}>Bricks</div>
