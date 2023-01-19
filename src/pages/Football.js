@@ -6,7 +6,7 @@ function Football() {
 
             <div className="flex flex-wrap text-blue-500 text-lg justify-center">
                 <div>
-                    <img src="images/Football.jpg" alt="marathon-poster" className="h-96 scale-125 my-28 rounded-2xl mt-36" />
+                    <img src="https://github.com/esarvesh11/Pictures/blob/main/images/Football.jpg?raw=true" alt="marathon-poster" className="h-96 scale-125 my-28 rounded-2xl mt-36" />
 
                 </div>
                 <div className="xl:ml-20 lg:ml-15 md:ml-12  mt-20">

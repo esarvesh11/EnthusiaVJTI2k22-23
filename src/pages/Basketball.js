@@ -6,7 +6,7 @@ function Basketball() {
 
             <div className="flex flex-wrap text-blue-500 text-lg justify-center">
                 <div>
-                    <img src="images/Basketball_2.jpg" alt="Basketball poster" className="h-96 scale-125 my-28 rounded-2xl mt-48" />
+                    <img src="https://github.com/esarvesh11/Pictures/blob/main/images/Basketball_2.jpg?raw=true" alt="Basketball poster" className="h-96 scale-125 my-28 rounded-2xl mt-48" />
 
                 </div>
                 <div className="xl:ml-20 lg:ml-15 md:ml-12 mt-16">

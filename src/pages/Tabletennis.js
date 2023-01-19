@@ -6,7 +6,7 @@ function Tabletennis() {
        
        <div className="flex flex-wrap text-blue-500 text-lg justify-center">
                 <div>
-                    <img src="images/Table Tennis.jpg" alt="Table Tennis-poster" className="h-96 mt-36 scale-125 my-28 rounded-2xl" />
+                    <img src="https://github.com/esarvesh11/Pictures/blob/main/images/Table%20Tennis.jpg?raw=true" alt="Table Tennis-poster" className="h-96 mt-36 scale-125 my-28 rounded-2xl" />
 
                 </div>
                 <div className="xl:ml-20 lg:ml-15 md:ml-12 mt-20">
