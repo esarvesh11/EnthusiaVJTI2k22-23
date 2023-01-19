@@ -124,6 +124,11 @@ function Footer() {
               </a>
             </p>
             <p class="flex items-center justify-center font-sans md:justify-end mb-4 text-xl">
+              <a href="/gallery" class=" no-underline  hover:text-white hover:border-b-2">
+                Gallery
+              </a>
+            </p>
+            <p class="flex items-center justify-center font-sans md:justify-end mb-4 text-xl">
               <a href="/team" class=" no-underline  hover:text-white hover:border-b-2">
                 Team
               </a>

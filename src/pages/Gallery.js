@@ -9,7 +9,7 @@ const Gallery = () => {
     let data = [
         {
             id: 1,
-            imgsrc: 'https://github.com/esarvesh11/DSA/blob/main/short%20list%20photo/DSC_0006.JPG?raw=true',
+            imgsrc: 'https://github.com/esarvesh11/DSA/blob/main/short%20list%20photo/IMG_4258.JPG?raw=true',
         },
         {
             id: 2,
@@ -21,24 +21,56 @@ const Gallery = () => {
         },
         {
             id: 4,
-            imgsrc: 'https://github.com/esarvesh11/DSA/blob/main/short%20list%20photo/IMG_8314.JPG?raw=true'
+            imgsrc: 'https://github.com/esarvesh11/DSA/blob/main/short%20list%20photo/IMG_9129.JPG?raw=true'
         },
         {
             id: 5,
-            imgsrc: 'https://github.com/esarvesh11/DSA/blob/main/short%20list%20photo/DSC_0006.JPG?raw=true'
+            imgsrc: 'https://github.com/esarvesh11/DSA/blob/main/short%20list%20photo/DSC_0058.JPG?raw=true'
         },
         {
             id: 6,
-            imgsrc: 'https://github.com/esarvesh11/DSA/blob/main/short%20list%20photo/DSC_0006.JPG?raw=true'
+            imgsrc: 'https://github.com/esarvesh11/DSA/blob/main/short%20list%20photo/DSC_0039.JPG?raw=true'
         },
         {
             id: 7,
-            imgsrc: 'https://github.com/esarvesh11/DSA/blob/main/short%20list%20photo/DSC_0006.JPG?raw=true'
+            imgsrc: 'https://github.com/esarvesh11/DSA/blob/main/short%20list%20photo/DSC_0051.JPG?raw=true'
         },
         {
             id: 8,
-            imgsrc: 'https://github.com/esarvesh11/DSA/blob/main/short%20list%20photo/DSC_0006.JPG?raw=true'
+            imgsrc: 'https://github.com/esarvesh11/DSA/blob/main/short%20list%20photo/DSC_0229.JPG?raw=true'
         },
+        {
+            id: 9,
+            imgsrc: 'https://github.com/esarvesh11/DSA/blob/main/short%20list%20photo/DSC_0226.JPG?raw=true',
+        },
+        {
+            id: 10,
+            imgsrc: 'https://github.com/esarvesh11/DSA/blob/main/short%20list%20photo/_MG_4028.JPG?raw=true',
+        },
+        {
+            id: 11,
+            imgsrc: 'https://github.com/esarvesh11/DSA/blob/main/short%20list%20photo/_MG_3987.JPG?raw=true',
+        },
+        {
+            id: 12,
+            imgsrc: 'https://github.com/esarvesh11/DSA/blob/main/short%20list%20photo/IMG_8314.JPG?raw=true'
+        },
+        {
+            id: 13,
+            imgsrc: 'https://github.com/esarvesh11/DSA/blob/main/short%20list%20photo/IMG_5345.JPG?raw=true'
+        },
+        {
+            id: 14,
+            imgsrc: 'https://github.com/esarvesh11/DSA/blob/main/short%20list%20photo/IMG_0200.JPG?raw=true'
+        },
+        {
+            id: 15,
+            imgsrc: 'https://github.com/esarvesh11/DSA/blob/main/short%20list%20photo/DSC_0291.JPG?raw=true'
+        },
+        {
+            id: 16,
+            imgsrc: 'https://github.com/esarvesh11/DSA/blob/main/short%20list%20photo/IMG_4757.JPG?raw=true'
+        }
     ]
 
 
