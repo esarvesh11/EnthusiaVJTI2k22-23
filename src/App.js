@@ -28,8 +28,9 @@ import Gallery from "./pages/Gallery";
 function App() {
   return (
     <div className="App">
-      <Navbar />
       <Router>
+        <Navbar />
+
         <Switch>
           <Route exact path="/" component={About} />
           <Route path="/about" component={About} />
