@@ -9,6 +9,7 @@ import styles from "./Navbar.module.css";
 const navigation = [
   { name: "About", href: "/about", current: false },
   { name: "Events", href: "/events", current: false },
+  { name: "Gallery", href: "/Gallery", current: false },
 ];
 
 function classNames(...classes) {
@@ -36,15 +37,15 @@ function Navbar() {
                   )}
                 </Disclosure.Button>
               </div>
-              <div className="flex-1 flex items-center justify-center sm:justify-start">
-                <div className="flex-shrink-0 flex items-center">
+              <div className="flex-1 flex items-center justify-center sm:justify-end">
+                <div className={styles.items}>
                   <img src={logo} className={styles.logo} alt="logo" />
-                  <a style={{textDecoration: "none"}} href="/">
+                  <a style={{ textDecoration: "none" }} href="/">
                     <h1 className="block lg:hidden h-8 w-auto font-bold text-lg">
                       ENTHUSIA
                     </h1>
                   </a>
-                  <a style={{textDecoration: "none"}} href="/">
+                  <a style={{ textDecoration: "none" }} href="/">
                     <h1 className="hidden lg:block w-64 font-bold text-2xl">
                       ENTHUSIA, VJTI
                     </h1>
@@ -53,7 +54,7 @@ function Navbar() {
                 <div className="hidden ml-8 md:block md:ml-6">
                   <div className="flex space-x-4">
                     {navigation.map((item) => (
-                      <a 
+                      <a
                         key={item.name}
                         href={item.href}
                         className={classNames(
