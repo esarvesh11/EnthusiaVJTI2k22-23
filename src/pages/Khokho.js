@@ -13,7 +13,7 @@ function Khokho() {
                     <div className="flex text-xl text-slate-200 justify-center mb-2">
                         <h2>Participation requirement:</h2>
                     </div>
-                    <div className="font-sans text-xl text-bold text-slate-400 mb-2"><p>Team participation</p></div>
+                    <div className="font-sans text-xl text-bold text-slate-400 mb-2 font-bold"><p>Team participation</p></div>
 
                     <div className="flex text-xl text-slate-200 justify-center mb-2">
                         <h2>Entry fees:</h2>
@@ -23,16 +23,16 @@ function Khokho() {
                         <div className="mb-4"> <span className="text-blue-500">Boys : Rs 1650/-</span> <span className="text-pink-700">(per Team)</span></div>
                         <div className="mb-4"> <span className="text-blue-500"> Girls : Rs 1400/-</span> <span className="text-pink-700">(per Team)</span></div>
                     </div>
-                    <div className="flex text-xl text-slate-200 justify-center mb-2">
+                    <div className="flex text-xl text-slate-200 justify-center mb-2 ">
                         <h2>Prize pool:</h2>
                     </div>
-                    <div className="font-sans text-lg text-bold text-slate-400 mb-4"><p>Boys : Rs 8000/-</p></div>
-                    <div className="font-sans text-lg text-bold text-slate-400 mb-4"><p>Girls : Rs 3500/-</p></div>
+                    <div className="font-sans text-lg text-bold text-slate-400 mb-4 font-extrabold"><p>Boys : Rs 8000/-</p></div>
+                    <div className="font-sans text-lg text-bold text-slate-400 mb-4 font-extrabold"><p>Girls : Rs 3500/-</p></div>
                     <div className="flex text-xl text-slate-200 justify-center mb-2">
                         <h2>Runner ups:</h2>
                     </div>
-                    <div className="font-sans text-lg text-bold text-slate-400 mb-4"><p>Boys : Rs 5000/-</p></div>
-                    <div className="font-sans text-lg text-bold text-slate-400 mb-4"><p>Girls : Rs 2500/-</p></div>
+                    <div className="font-sans text-lg text-bold text-slate-400 mb-4 font-extrabold"><p>Boys : Rs 5000/-</p></div>
+                    <div className="font-sans text-lg text-bold text-slate-400 mb-4 font-extrabold"><p>Girls : Rs 2500/-</p></div>
                 </div>
 
             </div>
@@ -43,11 +43,11 @@ function Khokho() {
        </div>
         
         <div className="flex justify-center cols-2 gap-4 mt-2">   
-            <button class="bg-transparent hover:bg-blue-700 font-sans text-blue-500 font-semibold hover:text-white py-2 mb-4 px-4 border border-blue-500 hover:border-transparent rounded">
+            <button class="bg-black hover:bg-blue-700 font-sans text-blue-500 font-semibold hover:text-white py-2 mb-4 px-4 border border-blue-500 hover:border-transparent rounded">
             <a target='_blank' href="https://docs.google.com/forms/d/e/1FAIpQLSd8h3GiBP9WudSkc4XbUCx10Q793dlVNwKruRxh_02bfr-Now/viewform">Link</a>
             </button>
 
-            <button class="bg-transparent hover:bg-blue-700 font-sans text-blue-500 font-semibold hover:text-white py-2 mb-4 px-4 border border-blue-500 hover:border-transparent rounded">
+            <button class="bg-black hover:bg-blue-700 font-sans text-blue-500 font-semibold hover:text-white py-2 mb-4 px-4 border border-blue-500 hover:border-transparent rounded">
                     <a target='_blank' href="https://drive.google.com/file/d/1ePskeeiTcCCoXLc3SxukoN9NcIh6kWAD/view">Rule Book</a>
                 </button>
         </div> 

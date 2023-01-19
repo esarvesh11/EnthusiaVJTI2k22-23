@@ -13,7 +13,7 @@ function Basketball() {
                     <div className="flex text-xl text-slate-200 justify-center mb-2">
                         <h2>Participation requirement:</h2>
                     </div>
-                    <div className="font-sans text-xl text-bold text-slate-400 mb-2"><p>Team participation</p></div>
+                    <div className="font-sans text-xl text-bold text-slate-400 mb-2 font-bold"><p>Team participation</p></div>
 
                     <div className="flex text-xl text-slate-200 justify-center mb-2">
                         <h2>Entry fees:</h2>
@@ -28,10 +28,10 @@ function Basketball() {
                     <div className="flex text-xl text-slate-200 justify-center mb-2">
                         <h2>Prize pool:</h2>
                     </div>
-                    <div className="font-sans text-lg text-bold text-slate-400 mb-4"><p>Boys 5v5 : Rs 18,000/-</p></div>
-                    <div className="font-sans text-lg text-bold text-slate-400 mb-4"><p>Girls 5v5 : Rs 10,000/-</p></div>
-                    <div className="font-sans text-lg text-bold text-slate-400 mb-4"><p>Boys 3v3 : Rs 8000/-</p></div>
-                    <div className="font-sans text-lg text-bold text-slate-400 mb-4"><p>Girls 3v3 : Rs 8000/-</p></div>
+                    <div className="font-sans text-lg text-bold text-slate-400 mb-4 font-extrabold"><p>Boys 5v5 : Rs 18,000/-</p></div>
+                    <div className="font-sans text-lg text-bold text-slate-400 mb-4 font-extrabold"><p>Girls 5v5 : Rs 10,000/-</p></div>
+                    <div className="font-sans text-lg text-bold text-slate-400 mb-4 font-extrabold"><p>Boys 3v3 : Rs 8000/-</p></div>
+                    <div className="font-sans text-lg text-bold text-slate-400 mb-4 font-extrabold"><p>Girls 3v3 : Rs 8000/-</p></div>
                 </div>
 
             </div>
@@ -42,10 +42,10 @@ function Basketball() {
             </div>
 
             <div className="flex justify-center cols-2 gap-4 ">
-                <button class="bg-transparent hover:bg-blue-700 font-sans text-blue-500 font-semibold hover:text-white py-2 mb-4 px-4 border border-blue-500 hover:border-transparent rounded">
+                <button class="bg-black hover:bg-blue-700 font-sans text-blue-500 font-semibold hover:text-white py-2 mb-4 px-4 border border-blue-500 hover:border-transparent rounded">
                     <a target='_blank' href="https://docs.google.com/forms/d/e/1FAIpQLSd-CqWMw3WNKbZOndc9Sn0_Ew9Ne174SCI8ILmHsXnQOuqX7A/viewform">Link</a>
                 </button>
-                <button class="bg-transparent hover:bg-blue-700 font-sans text-blue-500 font-semibold hover:text-white py-2 mb-4 px-4 border border-blue-500 hover:border-transparent rounded">
+                <button class="bg-black hover:bg-blue-700 font-sans text-blue-500 font-semibold hover:text-white py-2 mb-4 px-4 border border-blue-500 hover:border-transparent rounded">
                     <a target='_blank' href="https://drive.google.com/file/d/1ePskeeiTcCCoXLc3SxukoN9NcIh6kWAD/view">Rule Book</a>
                 </button>
             </div>

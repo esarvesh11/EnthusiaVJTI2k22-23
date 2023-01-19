@@ -13,23 +13,23 @@ function Throwball() {
                     <div className="flex text-xl text-slate-200 justify-center mb-2">
                         <h2>Participation requirement:</h2>
                     </div>
-                    <div className="font-sans text-xl text-bold text-slate-400 mb-2"><p>Team participation</p></div>
+                    <div className="font-sans text-xl text-bold text-slate-400 mb-2 font-bold"><p>Team participation</p></div>
 
                     <div className="flex text-xl text-slate-200 justify-center mb-2">
                         <h2>Entry fees:</h2>
                     </div>
                     {/* <div className="font-sans text-lg text-bold text-slate-400">VJTI students - <span className="text-blue-500">180/-</span> <span className="text-pink-700">(this amount will be refunded within 5 working days, post participation)</span></div> */}
                     <div className="font-sans text-lg text-bold text-slate-400 ">
-                        <div className="mb-4"> <span className="text-blue-500">Rs 700/-</span> <span className="text-pink-700">(per Team)</span></div>
+                        <div className="mb-4"> <span className="text-blue-500 ">Rs 700/-</span> <span className="text-pink-700">(per Team)</span></div>
                     </div>
                     <div className="flex text-xl text-slate-200 justify-center mb-2">
                         <h2>Prize pool:</h2>
                     </div>
-                    <div className="font-sans text-lg text-bold text-slate-400 mb-4"><p>Winner : Rs 3000/-</p></div>
+                    <div className="font-sans text-lg text-bold text-slate-400 mb-4 font-extrabold"><p>Winner : Rs 3000/-</p></div>
                     <div className="flex text-xl text-slate-200 justify-center mb-2">
                         <h2>Runner ups:</h2>
                     </div>
-                    <div className="font-sans text-lg text-bold text-slate-400 mb-4"><p>Rs 1500/-</p></div>
+                    <div className="font-sans text-lg text-bold text-slate-400 mb-4 font-extrabold"><p>Rs 1500/-</p></div>
                 </div>
 
             </div>

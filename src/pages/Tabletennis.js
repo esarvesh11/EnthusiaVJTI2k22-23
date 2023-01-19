@@ -13,7 +13,7 @@ function Tabletennis() {
                     <div className="flex text-xl text-slate-200 justify-center mb-2">
                         <h2>Participation requirement:</h2>
                     </div>
-                    <div className="font-sans text-xl text-bold text-slate-400 mb-2"><p>Team / Solo participation</p></div>
+                    <div className="font-sans text-xl text-bold text-slate-400 mb-2 font-bold"><p>Team / Solo participation</p></div>
 
                     <div className="flex text-xl text-slate-200 justify-center mb-2">
                         <h2>Entry fees:</h2>
@@ -27,9 +27,9 @@ function Tabletennis() {
                     <div className="flex text-xl text-slate-200 justify-center mb-2">
                         <h2>Prize pool:</h2>
                     </div>
-                    <div className="font-sans text-lg text-bold text-slate-400 mb-4"><p>Singles : Rs 3000/-</p></div>
-                    <div className="font-sans text-lg text-bold text-slate-400 mb-4"><p>Doubles : Rs 4000/-</p></div>
-                    <div className="font-sans text-lg text-bold text-slate-400 mb-4"><p>Team : Rs 6000/-</p></div>
+                    <div className="font-sans text-lg text-bold text-slate-400 mb-4 font-extrabold"><p>Singles : Rs 3000/-</p></div>
+                    <div className="font-sans text-lg text-bold text-slate-400 mb-4 font-extrabold"><p>Doubles : Rs 4000/-</p></div>
+                    <div className="font-sans text-lg text-bold text-slate-400 mb-4 font-extrabold"><p>Team : Rs 6000/-</p></div>
                 </div>
 
             </div>
@@ -39,11 +39,11 @@ function Tabletennis() {
        </div>
         
         <div className="flex justify-center cols-2 gap-4 mt-2">   
-            <button class="bg-transparent hover:bg-blue-700 font-sans text-blue-500 font-semibold hover:text-white py-2 mb-4 px-4 border border-blue-500 hover:border-transparent rounded">
+            <button class="bg-black hover:bg-blue-700 font-sans text-blue-500 font-semibold hover:text-white py-2 mb-4 px-4 border border-blue-500 hover:border-transparent rounded">
             <a target='_blank' href="https://docs.google.com/forms/d/e/1FAIpQLSdS1Mh210HfKGdGvTxmEp2iHgCTRRUR0WMtNjrNbgtp4C-GfA/viewform">Link</a>
             </button>
 
-            <button class="bg-transparent hover:bg-blue-700 font-sans text-blue-500 font-semibold hover:text-white py-2 mb-4 px-4 border border-blue-500 hover:border-transparent rounded">
+            <button class="bg-black hover:bg-blue-700 font-sans text-blue-500 font-semibold hover:text-white py-2 mb-4 px-4 border border-blue-500 hover:border-transparent rounded">
                     <a target='_blank' href="https://drive.google.com/file/d/1ePskeeiTcCCoXLc3SxukoN9NcIh6kWAD/view">Rule Book</a>
                 </button>
 
