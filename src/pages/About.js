@@ -22,7 +22,7 @@ function About() {
       </div>
 
       <div className="m-0">
-        <h1 className="text-2xl">Upcoming events</h1>
+        <h1 className="text-2xl">Events</h1>
         {/* <span className="text-xl text-orange-700"> (Open to all)</span> */}
         <Carousal />
 
