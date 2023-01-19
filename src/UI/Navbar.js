@@ -4,6 +4,7 @@ import { Disclosure, Menu, Transition } from "@headlessui/react";
 import { MenuIcon, XIcon } from "@heroicons/react/outline";
 import logo from "../enthu-logo.png";
 import styles from "./Navbar.module.css";
+import { NavLink } from "react-router-dom";
 // import Team from "../pages/Team";
 
 const navigation = [
@@ -54,9 +55,9 @@ function Navbar() {
                 <div className="hidden ml-8 md:block md:ml-6">
                   <div className="flex space-x-4">
                     {navigation.map((item) => (
-                      <a
-                        key={item.name}
-                        href={item.href}
+                      <NavLink
+                        // key={item.name}
+                        to={item.href}
                         className={classNames(
                           item.current
                             ? "text-white"
@@ -67,7 +68,7 @@ function Navbar() {
                       >
                         {" "}
                         {item.name}
-                      </a>
+                      </NavLink>
                     ))}
                   </div>
                 </div>
@@ -125,9 +126,9 @@ function Navbar() {
           <Disclosure.Panel className="md:hidden">
             <div className="px-2 pt-2 pb-3 space-y-1">
               {navigation.map((item) => (
-                <a
-                  key={item.name}
-                  href={item.href}
+                <NavLink
+                  // key={item.name}
+                  to={item.href}
                   className={classNames(
                     item.current
                       ? "text-white"
@@ -137,7 +138,7 @@ function Navbar() {
                   aria-current={item.current ? "page" : undefined}
                 >
                   {item.name}
-                </a>
+                </NavLink>
               ))}
               {/* <a
                 key="Team"
