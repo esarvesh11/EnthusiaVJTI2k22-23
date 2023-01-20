@@ -162,7 +162,7 @@ function Navbar() {
                 )}
                 aria-current={false ? "page" : undefined}
               >
-                <span>Teams
+                <span className="rounded-md text-lg font-medium no-underline">Teams
                 </span>
                 <div className={styles.dropdown_content}>
                   <a href="/Team" className="text-black " >Core Team</a>

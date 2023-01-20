@@ -45,6 +45,7 @@
     }
     .pics {
         border: 5px groove gray;
+        width: 90vw;
     }
 
 }
