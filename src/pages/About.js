@@ -21,7 +21,7 @@ function About() {
         </div>
       </div>
 
-      <div className="m-0">
+      <div className={styles.cow}>
         <h1 className="text-2xl">Events</h1>
         {/* <span className="text-xl text-orange-700"> (Open to all)</span> */}
         <Carousal />
