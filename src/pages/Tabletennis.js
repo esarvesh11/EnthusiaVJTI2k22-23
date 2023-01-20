@@ -2,11 +2,11 @@
 function Tabletennis() {
     return (
         <div className="box-content mb-8 w-full">
-       <h1 className="text-2xl p-2">Table Tennis</h1>
+       <h1 className="text-3xl p-2">Table Tennis</h1>
        
        <div className="flex flex-wrap text-blue-500 text-lg justify-center">
                 <div>
-                    <img src="images/Table Tennis Final.jpg" alt="Table Tennis-poster" className="h-96 scale-125 my-28 rounded-2xl" />
+                    <img src="https://github.com/esarvesh11/Pictures/blob/main/images/Table%20Tennis.jpg?raw=true" alt="Table Tennis-poster" className="h-96 mt-36 scale-125 my-28 rounded-2xl" />
 
                 </div>
                 <div className="xl:ml-20 lg:ml-15 md:ml-12 mt-20">
@@ -19,7 +19,7 @@ function Tabletennis() {
                         <h2>Entry fees:</h2>
                     </div>
                     {/* <div className="font-sans text-lg text-bold text-slate-400">VJTI students - <span className="text-blue-500">180/-</span> <span className="text-pink-700">(this amount will be refunded within 5 working days, post participation)</span></div> */}
-                    <div className="font-sans text-lg text-bold text-slate-400 ">
+                    <div className="font-sans text-lg text-bold text-slate-400 font-extrabold ">
                         <div className="mb-4"> <span className="text-blue-500">Singles : Rs 350/-</span> <span className="text-pink-700">(per Player)</span></div>
                         <div className="mb-4"> <span className="text-blue-500"> Doubles : Rs 700/-</span> <span className="text-pink-700">(per Team)</span></div>
                         <div className="mb-4"> <span className="text-blue-500">Team : Rs 1000/-</span> <span className="text-pink-700">(per Team)</span></div>
@@ -40,11 +40,11 @@ function Tabletennis() {
         
         <div className="flex justify-center cols-2 gap-4 mt-2">   
             <button class="bg-black hover:bg-blue-700 font-sans text-blue-500 font-semibold hover:text-white py-2 mb-4 px-4 border border-blue-500 hover:border-transparent rounded">
-            <a target='_blank' href="https://docs.google.com/forms/d/e/1FAIpQLSdS1Mh210HfKGdGvTxmEp2iHgCTRRUR0WMtNjrNbgtp4C-GfA/viewform">Link</a>
+            <a class="no-underline" target='_blank' href="https://docs.google.com/forms/d/e/1FAIpQLSdS1Mh210HfKGdGvTxmEp2iHgCTRRUR0WMtNjrNbgtp4C-GfA/viewform">Link</a>
             </button>
 
             <button class="bg-black hover:bg-blue-700 font-sans text-blue-500 font-semibold hover:text-white py-2 mb-4 px-4 border border-blue-500 hover:border-transparent rounded">
-                    <a target='_blank' href="https://drive.google.com/file/d/1ePskeeiTcCCoXLc3SxukoN9NcIh6kWAD/view">Rule Book</a>
+                    <a class="no-underline" target='_blank' href="https://drive.google.com/file/d/1ePskeeiTcCCoXLc3SxukoN9NcIh6kWAD/view">Rule Book</a>
                 </button>
 
         </div> 

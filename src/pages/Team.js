@@ -13,20 +13,20 @@ function Team() {
           <div class="w-full shadow-xl shadow-orange-500/30 border-2 rounded-md my-4 border-slate-100">
             <h1 class="text-xl">SECRETARIES</h1>
             <div class="p-6 grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-3 lg:grid-cols-3 xl:gap-x-8">
-              <Member src="images\VJTI Sports Committee 22-23\Secretaries\Aaditya Joshi.JPG" alt="Secretary-Aaditya" name="Aaditya Joshi"/>
+              <Member src="https://github.com/esarvesh11/Pictures/blob/main/core_team/Aaditya%20Joshi.JPG?raw=true" alt="Secretary-Aaditya" name="Aaditya Joshi"/>
 
-              <Member src="images\VJTI Sports Committee 22-23\Secretaries\Aditi Khadse.jpg" alt="Secretary-Aditi" name="Aditi Khadse"/>
+              <Member src="https://github.com/esarvesh11/Pictures/blob/main/core_team/Aditi%20Khadse.jpg?raw=true" alt="Secretary-Aditi" name="Aditi Khadse"/>
 
-              <Member src="images\VJTI Sports Committee 22-23\Secretaries\Kratin Jain.jpg" alt="Secretary-Kratin" name="Kratin Jain"/>
+              <Member src="https://github.com/esarvesh11/Pictures/blob/main/core_team/Kratin%20Jain.jpg?raw=true" alt="Secretary-Kratin" name="Kratin Jain"/>
           </div>
         </div>        
 
         <div class="w-full shadow-xl shadow-orange-500/30 border-2 my-4 rounded-md border-slate-100">
           <h1 class="text-xl">TREASURERS</h1>
           <div class="p-6 flex flex-wrap justify-evenly">
-            <Member src="images\VJTI Sports Committee 22-23\Treasurers\Esha Jain.jpg" alt="Treasurer-Esha" name="Esha Jain"/>
+            <Member src="https://github.com/esarvesh11/Pictures/blob/main/core_team/Esha%20Jain.jpg?raw=true" alt="Treasurer-Esha" name="Esha Jain"/>
 
-            <Member src="images\VJTI Sports Committee 22-23\Treasurers\Yash Kabra.jpg" alt="Treasurer-Yash" name="Yash Kabra"/>
+            <Member src="https://github.com/esarvesh11/Pictures/blob/main/core_team/Yash%20Kabra.jpg?raw=true" alt="Treasurer-Yash" name="Yash Kabra"/>
 
           </div>
         </div>
@@ -34,11 +34,11 @@ function Team() {
         <div class="w-full shadow-xl shadow-orange-500/30 border-2 rounded-md my-4 border-slate-100">
             <h1 class="text-xl">EXECUTIVE DIRECTORS</h1>
             <div class="p-6 grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-3 lg:grid-cols-3 xl:gap-x-8">
-              <Member src="images\VJTI Sports Committee 22-23\Executive Director\Chirag Kathoye.jpg" alt="ED-Chirag" name="Chirag Kathoye"/>
+              <Member src="https://github.com/esarvesh11/Pictures/blob/main/core_team/Chirag%20Kathoye.jpg?raw=true" alt="ED-Chirag" name="Chirag Kathoye"/>
 
-              <Member src="images\VJTI Sports Committee 22-23\Executive Director\Diya Rajeevan.jpg" alt="ED-Diya" name="Diya Rajeevan"/>
+              <Member src="https://github.com/esarvesh11/Pictures/blob/main/core_team/Diya%20Rajeevan.jpg?raw=true" alt="ED-Diya" name="Diya Rajeevan"/>
 
-              <Member src="images\VJTI Sports Committee 22-23\Executive Director\Sam Fernandes_.jpg" alt="ED-Sam" name="Sam Fernandes"/>
+              <Member src="https://github.com/esarvesh11/Pictures/blob/main/core_team/Sam%20Fernandes_.jpg?raw=true" alt="ED-Sam" name="Sam Fernandes"/>
 
             </div>
           </div>
@@ -46,11 +46,11 @@ function Team() {
           <div class="w-full shadow-xl shadow-orange-500/30 border-2 rounded-md my-4 border-slate-100">
             <h1 class="text-xl">Head OPs</h1>
             <div class="p-6 grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-3 lg:grid-cols-3 xl:gap-x-8">
-              <Member src="images\VJTI Sports Committee 22-23\Head Ops\Sahil Thakare_.jpg" alt="OPs-Sahil" name="Sahil Thakare"/>
+              <Member src="https://github.com/esarvesh11/Pictures/blob/main/core_team/Sahil%20Thakare_.jpg?raw=true" alt="OPs-Sahil" name="Sahil Thakare"/>
 
-              <Member src="images\VJTI Sports Committee 22-23\Head Ops\Snehil Rughani.jpg" alt="OPs-Snehil" name="Snehil Rughani"/>
+              <Member src="https://github.com/esarvesh11/Pictures/blob/main/core_team/Snehil%20Rughani.jpg?raw=true" alt="OPs-Snehil" name="Snehil Rughani"/>
 
-              <Member src="images\VJTI Sports Committee 22-23\Head Ops\RahulKumar.Chaure.jpg" alt="OPs-Rahul" name="Rahul Chaure"/>
+              <Member src="https://github.com/esarvesh11/Pictures/blob/main/core_team/RahulKumar.Chaure.jpg?raw=true" alt="OPs-Rahul" name="Rahul Chaure"/>
             </div>
           </div>
 
@@ -67,13 +67,13 @@ function Team() {
         <div class="w-full shadow-xl shadow-orange-500/30 border-2 my-4 rounded-md border-slate-100">
           <h1 class="text-xl">Spons Heads</h1>
           <div class="p-6 grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-2 lg:grid-cols-4 xl:gap-x-8">
-              <Member src="images\VJTI Sports Committee 22-23\Sponsorship Heads\Akshat Agrawal_.jpg" alt="Spons-Akshat" name="Akshat Agarwal"/>
+              <Member src="https://github.com/esarvesh11/Pictures/blob/main/core_team/Akshat%20Agrawal_.jpg?raw=true" alt="Spons-Akshat" name="Akshat Agrawal"/>
 
-              <Member src="images\VJTI Sports Committee 22-23\Sponsorship Heads\Amey Shinde_Spons.jpg" alt="Spons-Amey" name="Amey Shinde"/>
+              <Member src="https://github.com/esarvesh11/Pictures/blob/main/core_team/Amey%20Shinde_Spons.jpg?raw=true" alt="Spons-Amey" name="Amey Shinde"/>
 
-              <Member src="images\VJTI Sports Committee 22-23\Sponsorship Heads\Kunal Zade.jpg" alt="Spons-Kunal" name="Kunal Zade"/>
+              <Member src="https://github.com/esarvesh11/Pictures/blob/main/core_team/Kunal%20Zade.jpg?raw=true" alt="Spons-Kunal" name="Kunal Zade"/>
 
-              <Member src="images\VJTI Sports Committee 22-23\Sponsorship Heads\Maitray Wani.jpg" alt="Spons-Maitray" name="Maitray Wani"/>
+              <Member src="https://github.com/esarvesh11/Pictures/blob/main/core_team/Maitray%20Wani.jpg?raw=true" alt="Spons-Maitray" name="Maitray Wani"/>
 
           </div>
         </div>
@@ -81,13 +81,13 @@ function Team() {
         <div class="w-full shadow-xl shadow-orange-500/30 border-2 my-4 rounded-md border-slate-100">
           <h1 class="text-xl">PR Heads</h1>
           <div class="p-6 grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-2 lg:grid-cols-4 xl:gap-x-8">
-              <Member src="images\VJTI Sports Committee 22-23\PR Heads\Pratiksha Naik.jpg" alt="PR-Pratiksha" name="Pratiksha Naik"/>
+              <Member src="https://github.com/esarvesh11/Pictures/blob/main/core_team/Pratiksha%20Naik.jpg?raw=true" alt="PR-Pratiksha" name="Pratiksha Naik"/>
 
-              <Member src="images\VJTI Sports Committee 22-23\PR Heads\Shalvi Bhoyar.jpg" alt="PR-Shalvi" name="Shalvi Bhoyar"/>
+              <Member src="https://github.com/esarvesh11/Pictures/blob/main/core_team/Shalvi%20Bhoyar.jpg?raw=true" alt="PR-Shalvi" name="Shalvi Bhoyar"/>
 
-              <Member src="images\VJTI Sports Committee 22-23\PR Heads\Shreyas Bhatlawande.jpg" alt="PR-Shreyas" name="Shreyas Bhatlawnade"/>
+              <Member src="https://github.com/esarvesh11/Pictures/blob/main/core_team/Shreyas%20Bhatlawande.jpg?raw=true" alt="PR-Shreyas" name="Shreyas Bhatlawnade"/>
 
-              <Member src="images\VJTI Sports Committee 22-23\PR Heads\Udit Dhankar.jpg" alt="PR-Udit" name="Udit Dhankar"/>
+              <Member src="https://github.com/esarvesh11/Pictures/blob/main/core_team/Udit%20Dhankar.jpg?raw=true" alt="PR-Udit" name="Udit Dhankar"/>
 
           </div>
         </div>
@@ -95,13 +95,13 @@ function Team() {
         <div class="w-full shadow-xl shadow-orange-500/30 border-2 my-4 rounded-md border-slate-100">
           <h1 class="text-xl">Marketing Heads</h1>
           <div class="p-6 grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-2 lg:grid-cols-4 xl:gap-x-8">
-              <Member src="images\VJTI Sports Committee 22-23\Marketing Heads\Chinmay Narkhede_.jpg" alt="Marketing-Chinmay" name="Chinmay Narkhede"/>
+              <Member src="https://github.com/esarvesh11/Pictures/blob/main/core_team/Chinmay%20Narkhede_.jpg?raw=true" alt="Marketing-Chinmay" name="Chinmay Narkhede"/>
 
-              <Member src="images\VJTI Sports Committee 22-23\Marketing Heads\Madhura Pote.jpg" alt="Marketing-Madhura" name="Madhura Pote"/>
+              <Member src="https://github.com/esarvesh11/Pictures/blob/main/core_team/Madhura%20Pote.jpg?raw=true" alt="Marketing-Madhura" name="Madhura Pote"/>
 
-              <Member src="images\VJTI Sports Committee 22-23\Marketing Heads\Nilesh Yadav.webp" alt="Marketing-Nilesh" name="Nilesh Yadav"/>
+              <Member src="https://github.com/esarvesh11/Pictures/blob/main/core_team/Nilesh%20Yadav.webp?raw=true" alt="Marketing-Nilesh" name="Nilesh Yadav"/>
 
-              <Member src="images\VJTI Sports Committee 22-23\Marketing Heads\SMIT DHENGRE_.jpg" alt="Marketing-Smit" name="Smit Dhengre"/>
+              <Member src="https://github.com/esarvesh11/Pictures/blob/main/core_team/SMIT%20DHENGRE_.jpg?raw=true" alt="Marketing-Smit" name="Smit Dhengre"/>
 
           </div>
         </div>
@@ -109,13 +109,13 @@ function Team() {
         <div class="w-full shadow-xl shadow-orange-500/30 border-2 my-4 rounded-md border-slate-100">
           <h1 class="text-xl">Design Heads</h1>
           <div class="p-6 grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-2 lg:grid-cols-4 xl:gap-x-8">
-              <Member src="images\VJTI Sports Committee 22-23\Design Heads\Avani Khadkikar.jpg" alt="Design-Avani" name="Avani Khadkikar"/>
+              <Member src="https://github.com/esarvesh11/Pictures/blob/main/core_team/Avani%20Khadkikar.jpg?raw=true" alt="Design-Avani" name="Avani Khadkikar"/>
 
-              <Member src="images\VJTI Sports Committee 22-23\Design Heads\Divyank Jain.jpg" alt="Design-Divyank" name="Divyank Jain"/>
+              <Member src="https://github.com/esarvesh11/Pictures/blob/main/core_team/Divyank%20Jain.jpg?raw=true" alt="Design-Divyank" name="Divyank Jain"/>
 
-              <Member src="images\VJTI Sports Committee 22-23\Design Heads\Prachi Sunil Katela.jpg" alt="Design-Prachi" name="Prachi Katela"/>
+              <Member src="https://github.com/esarvesh11/Pictures/blob/main/core_team/Prachi%20Sunil%20Katela.jpg?raw=true" alt="Design-Prachi" name="Prachi Katela"/>
 
-              <Member src="images\VJTI Sports Committee 22-23\Design Heads\Satvik Sharma.jpg" alt="Design-Satvik" name="Satvik Sharma"/>
+              <Member src="https://github.com/esarvesh11/Pictures/blob/main/core_team/Satvik%20Sharma.jpg?raw=true" alt="Design-Satvik" name="Satvik Sharma"/>
 
           </div>
         </div>
@@ -123,13 +123,13 @@ function Team() {
         <div class="w-full shadow-xl shadow-orange-500/30 border-2 my-4 rounded-md border-slate-100">
           <h1 class="text-xl">Digital Heads</h1>
           <div class="p-6 grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-2 lg:grid-cols-4 xl:gap-x-8">
-              <Member src="images\VJTI Sports Committee 22-23\Digital Heads\Deven Choudhari_.jpg" alt="Digital-Deven" name="Deven Choudhari"/>
+              <Member src="https://github.com/esarvesh11/Pictures/blob/main/core_team/Deven%20Choudhari_.jpg?raw=true" alt="Digital-Deven" name="Deven Choudhari"/>
 
-              <Member src="images\VJTI Sports Committee 22-23\Digital Heads\Saloni Paliwal.jpg" alt="Digital-Saloni" name="Saloni Paliwal"/>
+              <Member src="https://github.com/esarvesh11/Pictures/blob/main/core_team/Saloni%20Paliwal.jpg?raw=true" alt="Digital-Saloni" name="Saloni Paliwal"/>
 
-              <Member src="images\VJTI Sports Committee 22-23\Digital Heads\Sarvesh Shirude.jpg" alt="Digital-Sarvesh" name="Sarvesh Shirude"/>
+              <Member src="https://github.com/esarvesh11/Pictures/blob/main/core_team/Sarvesh%20Shirude.jpg?raw=true" alt="Digital-Sarvesh" name="Sarvesh Shirude"/>
 
-              <Member src="images\VJTI Sports Committee 22-23\Digital Heads\Sharayu Korade.jpg" alt="Digital-Sharayu" name="Sharayu Korade"/>
+              <Member src="https://github.com/esarvesh11/Pictures/blob/main/core_team/Sharayu%20Korade.jpg?raw=true" alt="Digital-Sharayu" name="Sharayu Korade"/>
 
           </div>
         </div>
@@ -158,7 +158,7 @@ function Team() {
 
               <Member src="images\VJTI Sports Committee 22-23\MNC main\MNC PR\Kimaya Mutha.jpeg" alt="PR-Kimaya" name="Kimaya Mutha"/>
 
-              <Member src="images\VJTI Sports Committee 22-23\MNC main\MNC PR\Saumil Parsodkar .JPG" alt="PR-Saumil" name="Saumil Parsodkar"/>
+              <Member src="images\VJTI Sports Committee 22-23\MNC main\MNC PR\Saumil Parsodkar .jpg" alt="PR-Saumil" name="Saumil Parsodkar"/>
             </div>
           </div>
 
@@ -192,7 +192,7 @@ function Team() {
         <div class="w-full shadow-xl shadow-orange-500/30 border-2 my-4 rounded-md border-slate-100">
           <h1 class="text-xl">Web Developer Heads</h1>
           <div class="p-6 flex flex-wrap justify-evenly">
-            <Member src="images\VJTI Sports Committee 22-23\Web Dev Heads\Aman Singh.jpg" alt="Web_Dev-Aman" name="Aman Singh"/>
+            <Member src="https://github.com/esarvesh11/Pictures/blob/main/core_team/Aman%20Singh.jpg?raw=true" alt="Web_Dev-Aman" name="Aman Singh"/>
 
             <Member src="https://pbs.twimg.com/profile_images/1592419201058484224/oR3Djqw2.jpg" alt="Web_Dev-Vishal" name="Vishal Dhanger"/>
 

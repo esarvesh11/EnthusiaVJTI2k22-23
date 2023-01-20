@@ -2,7 +2,7 @@ import React from "react";
 
 function Footer() {
   return (
-    <footer class=" box-content h-128 w-full text-center lg:text-left bg-zinc-800 text-gray-500">
+    <footer class=" box-content h-128 w-full text-center lg:text-left bg-gray-900 text-gray-500">
       <div class="flex justify-center items-center md:mx-64 lg:justify-between p-6 border-b border-gray-300">
         <div class="mr-12 text-slate-400 hidden lg:block">
           <span>Get connected with us on social networks:</span>
@@ -114,17 +114,22 @@ function Footer() {
               Useful links
             </h6>
             <p class="flex items-center justify-center font-sans md:justify-end mb-4 text-xl ">
-              <a href="/about" class="hover:text-white">
+              <a href="/about" class=" no-underline  hover:text-white hover:border-b-2">
                 About
               </a>
             </p>
             <p class="flex items-center justify-center font-sans md:justify-end mb-4 text-xl ">
-              <a href="/events" class="hover:text-white">
+              <a href="/events" class=" no-underline  hover:text-white hover:border-b-2">
                 Events
               </a>
             </p>
             <p class="flex items-center justify-center font-sans md:justify-end mb-4 text-xl">
-              <a href="/team" class="hover:text-white">
+              <a href="/gallery" class=" no-underline  hover:text-white hover:border-b-2">
+                Gallery
+              </a>
+            </p>
+            <p class="flex items-center justify-center font-sans md:justify-end mb-4 text-xl">
+              <a href="/team" class=" no-underline  hover:text-white hover:border-b-2">
                 Team
               </a>
             </p>
@@ -171,7 +176,7 @@ function Footer() {
                   d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"
                 ></path>
               </svg>
-              <a href="mailto:admin@enthusiavjti.in">admin@enthusiavjti.in</a>
+              <a class=" no-underline hover:text-white hover:border-b-2" href="mailto:admin@enthusiavjti.in">admin@enthusiavjti.in</a>
             </p>
           </div>
         </div>

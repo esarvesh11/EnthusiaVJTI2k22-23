@@ -9,7 +9,7 @@ const Gallery = () => {
     let data = [
         {
             id: 1,
-            imgsrc: 'https://github.com/esarvesh11/DSA/blob/main/short%20list%20photo/DSC_0006.JPG?raw=true',
+            imgsrc: 'https://github.com/esarvesh11/DSA/blob/main/short%20list%20photo/IMG_4258.JPG?raw=true',
         },
         {
             id: 2,
@@ -21,44 +21,56 @@ const Gallery = () => {
         },
         {
             id: 4,
-            imgsrc: 'https://github.com/esarvesh11/DSA/blob/main/short%20list%20photo/DSC_0058.JPG?raw=true',
-        },
-        {
-            id: 4,
-            imgsrc: 'https://github.com/esarvesh11/DSA/blob/main/short%20list%20photo/DSC_0171.JPG?raw=true'
+            imgsrc: 'https://github.com/esarvesh11/DSA/blob/main/short%20list%20photo/IMG_9129.JPG?raw=true'
         },
         {
             id: 5,
-            imgsrc: 'https://images.unsplash.com/photo-1671725779305-bff966b40cbe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHwxMXx8fGVufDB8fHx8&auto=format&fit=crop&w=600&q=60'
+            imgsrc: 'https://github.com/esarvesh11/DSA/blob/main/short%20list%20photo/DSC_0058.JPG?raw=true'
         },
         {
             id: 6,
-            imgsrc: 'https://images.unsplash.com/photo-1673958123705-92394f541cf1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxNHx8fGVufDB8fHx8&auto=format&fit=crop&w=600&q=60'
+            imgsrc: 'https://github.com/esarvesh11/DSA/blob/main/short%20list%20photo/DSC_0039.JPG?raw=true'
         },
         {
             id: 7,
-            imgsrc: 'https://images.unsplash.com/photo-1674049949385-a475815ec415?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxNXx8fGVufDB8fHx8&auto=format&fit=crop&w=600&q=60'
+            imgsrc: 'https://github.com/esarvesh11/DSA/blob/main/short%20list%20photo/DSC_0051.JPG?raw=true'
         },
         {
             id: 8,
-            imgsrc: 'https://images.unsplash.com/photo-1673972419547-d570c5a78223?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyMHx8fGVufDB8fHx8&auto=format&fit=crop&w=600&q=60'
+            imgsrc: 'https://github.com/esarvesh11/DSA/blob/main/short%20list%20photo/DSC_0229.JPG?raw=true'
         },
         {
             id: 9,
-            imgsrc: 'https://images.unsplash.com/photo-1673855945969-5a340b5c0843?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyMnx8fGVufDB8fHx8&auto=format&fit=crop&w=600&q=60'
+            imgsrc: 'https://github.com/esarvesh11/DSA/blob/main/short%20list%20photo/DSC_0226.JPG?raw=true',
         },
         {
             id: 10,
-            imgsrc: 'https://images.unsplash.com/photo-1673995544189-9a97fe3c60b9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyN3x8fGVufDB8fHx8&auto=format&fit=crop&w=600&q=60'
+            imgsrc: 'https://github.com/esarvesh11/DSA/blob/main/short%20list%20photo/_MG_4028.JPG?raw=true',
         },
         {
             id: 11,
-            imgsrc: 'https://images.unsplash.com/photo-1673986042042-00e8228ae46f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyOXx8fGVufDB8fHx8&auto=format&fit=crop&w=600&q=60'
+            imgsrc: 'https://github.com/esarvesh11/DSA/blob/main/short%20list%20photo/_MG_3987.JPG?raw=true',
         },
         {
             id: 12,
-            imgsrc: 'https://images.unsplash.com/photo-1673632156153-d3baf0d0401b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzMnx8fGVufDB8fHx8&auto=format&fit=crop&w=600&q=60'
+            imgsrc: 'https://github.com/esarvesh11/DSA/blob/main/short%20list%20photo/IMG_8314.JPG?raw=true'
         },
+        {
+            id: 13,
+            imgsrc: 'https://github.com/esarvesh11/DSA/blob/main/short%20list%20photo/IMG_5345.JPG?raw=true'
+        },
+        {
+            id: 14,
+            imgsrc: 'https://github.com/esarvesh11/DSA/blob/main/short%20list%20photo/IMG_0200.JPG?raw=true'
+        },
+        {
+            id: 15,
+            imgsrc: 'https://github.com/esarvesh11/DSA/blob/main/short%20list%20photo/DSC_0291.JPG?raw=true'
+        },
+        {
+            id: 16,
+            imgsrc: 'https://github.com/esarvesh11/DSA/blob/main/short%20list%20photo/IMG_4757.JPG?raw=true'
+        }
     ]
 
 
