@@ -47,7 +47,7 @@ function Navbar() {
                     </h1>
                   </a>
                   <a style={{ textDecoration: "none" }} href="/">
-                    <h1 className="hidden lg:block w-64 font-bold text-2xl">
+                    <h1 className="hidden lg:block w-64 font-bold text-2xl temp">
                       ENTHUSIA, VJTI
                     </h1>
                   </a>

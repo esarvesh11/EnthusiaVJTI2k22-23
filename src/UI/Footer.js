@@ -1,4 +1,5 @@
 import React from "react";
+import styles from './footer.module.css'
 
 function Footer() {
   return (
@@ -107,35 +108,37 @@ function Footer() {
           </a>
         </div>
       </div>
-      <div class="mx-6 py-6 text-center md:text-left">
-        <div class="grid grid-1 md:grid-cols-2 gap-8 md:gap-16">
+      <div class={styles.bottomcontainer}>
+        <div class={styles.subcontainer}>
           <div class="">
-            <h6 class="uppercase text-lg text-slate-300 font-bold mb-4 flex justify-center md:justify-end">
+            <h6 class="uppercase text-lg text-slate-300 font-bold mb-0 md:mb-4 flex justify-center md:justify-end">
               Useful links
             </h6>
-            <p class="flex items-center justify-center font-sans md:justify-end mb-4 text-xl ">
-              <a href="/about" class=" no-underline  hover:text-white hover:border-b-2">
-                About
-              </a>
-            </p>
-            <p class="flex items-center justify-center font-sans md:justify-end mb-4 text-xl ">
-              <a href="/events" class=" no-underline  hover:text-white hover:border-b-2">
-                Events
-              </a>
-            </p>
-            <p class="flex items-center justify-center font-sans md:justify-end mb-4 text-xl">
-              <a href="/gallery" class=" no-underline  hover:text-white hover:border-b-2">
-                Gallery
-              </a>
-            </p>
-            <p class="flex items-center justify-center font-sans md:justify-end mb-4 text-xl">
-              <a href="/team" class=" no-underline  hover:text-white hover:border-b-2">
-                Team
-              </a>
-            </p>
+            <div className={styles.linkcontainer}>
+              <p class="flex items-center justify-center font-sans md:justify-end mb-4 text-xl ">
+                <a href="/about" class=" no-underline  hover:text-white hover:border-b-2">
+                  About
+                </a>
+              </p>
+              <p class="flex items-center justify-center font-sans md:justify-end mb-4 text-xl ">
+                <a href="/events" class=" no-underline  hover:text-white hover:border-b-2">
+                  Events
+                </a>
+              </p>
+              <p class="flex items-center justify-center font-sans md:justify-end mb-4 text-xl">
+                <a href="/gallery" class=" no-underline  hover:text-white hover:border-b-2">
+                  Gallery
+                </a>
+              </p>
+              <p class="flex items-center justify-center font-sans md:justify-end mb-4 text-xl">
+                <a href="/team" class=" no-underline  hover:text-white hover:border-b-2">
+                  Team
+                </a>
+              </p>
+            </div>
           </div>
           <div class="">
-            <h6 class="uppercase text-lg font-bold text-slate-300 mb-4 flex justify-center md:justify-start">
+            <h6 class="uppercase text-lg font-bold text-slate-300 mb-2 flex justify-center md:justify-start">
               Contact us
             </h6>
             <p class="flex items-center font-sans justify-center md:justify-start mb-4 text-xl">
@@ -181,7 +184,7 @@ function Footer() {
           </div>
         </div>
       </div>
-      <div class="text-center font-sans mb-5">
+      <div className={styles.sp}>
         <span>© 2022 Copyright: ENTHUSIA VJTI. All rights reserved.</span>
       </div>
     </footer>

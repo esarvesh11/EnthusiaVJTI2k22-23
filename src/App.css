@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+SA+Beginner:wght@400;700&family=Pacifico&family=Poppins:ital,wght@0,600;1,300&family=Raleway:ital,wght@1,600&display=swap');
 .App {
   text-align: center;
   background-color: #1a1a1b;
@@ -23,4 +24,14 @@
 
 .active{
   color: white;
+}
+
+
+
+/* below temp class is used in Navbar.js for "Enthusia,VJTI" */
+
+.temp{
+
+  font-family: sans-serif;
+
 }
