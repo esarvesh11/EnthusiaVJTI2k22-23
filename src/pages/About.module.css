@@ -35,3 +35,13 @@ h1 {
   stroke-dasharray:200 60;
   stroke-dashoffset:0;
 }
+
+.cow {
+  margin: 10px;
+}
+
+@media (max-width: 480px) {
+  .cow {
+    margin: 0px;
+  }
+}

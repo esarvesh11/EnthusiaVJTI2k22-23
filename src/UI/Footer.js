@@ -111,7 +111,7 @@ function Footer() {
       <div class={styles.bottomcontainer}>
         <div class={styles.subcontainer}>
           <div class="">
-            <h6 class="uppercase text-lg text-slate-300 font-bold mb-0 md:mb-4 flex justify-center md:justify-end">
+            <h6 class="uppercase text-lg text-slate-300 font-bold mb-4 flex justify-center md:justify-end">
               Useful links
             </h6>
             <div className={styles.linkcontainer}>
@@ -141,9 +141,9 @@ function Footer() {
             <h6 class="uppercase text-lg font-bold text-slate-300 mb-2 flex justify-center md:justify-start">
               Contact us
             </h6>
-            <p class="flex items-center font-sans justify-center md:justify-start mb-4 text-xl">
+            <p class="flex items-center font-sans justify-center md:justify-start md:text-left text-center mb-4 text-xl">
               <svg
-                class="w-6 h-6 mx-2"
+                class="w-6 h-6 mx-2 translate-x-10 md:translate-x-0"
                 fill="none"
                 stroke="currentColor"
                 viewBox="0 0 24 24"
