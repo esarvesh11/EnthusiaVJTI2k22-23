@@ -138,32 +138,34 @@ function Footer() {
             </div>
           </div>
           <div class="">
-            <h6 class="uppercase text-lg font-bold text-slate-300 mb-2 flex justify-center md:justify-start">
+            <h6 class="uppercase text-lg font-bold text-slate-300  flex justify-center md:justify-start mb:0 md:mb-4">
               Contact us
             </h6>
-            <p class="flex items-center font-sans justify-center md:justify-start md:text-left text-center mb-4 text-xl">
-              <svg
-                class="w-6 h-6 mx-2 translate-x-10 md:translate-x-0"
-                fill="none"
-                stroke="currentColor"
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"
-                ></path>
-                <path
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"
-                ></path>
-              </svg>
-              H R Mahajani Rd, Matunga, Mumbai-400019
-            </p>
+            <div class="flex justify-center items-center text-center md:justify-start">
+              <p class="flex items-center font-sans justify-center md:justify-start mb-4 text-xl">
+                <svg
+                  class="w-6 h-6 mx-2 md:mx-0 "
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"
+                  ></path>
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"
+                  ></path>
+                </svg>
+                H R Mahajani Rd, Matunga, Mumbai-400019
+              </p>
+            </div>
             <p class="flex items-center font-sans justify-center md:justify-start mb-4 text-xl">
               <svg
                 class="w-6 h-6 mx-2"
