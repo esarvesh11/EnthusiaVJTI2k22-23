@@ -26,6 +26,7 @@ function Chess() {
                     <div className="flex text-xl text-slate-200 justify-center mb-2">
                         <h2>Prize pool:</h2>
                     </div>
+                    // prizes
                     <div className="font-sans text-lg text-bold text-slate-400  font-extrabold"><p>1<sup>st</sup> : Rs 3500/-</p></div>
                     <div className="font-sans text-lg text-bold text-slate-400  font-extrabold"><p>2<sup>nd</sup> : Rs 2500/-</p></div>
                     <div className="font-sans text-lg text-bold text-slate-400  font-extrabold"><p>3<sup>rd</sup> : Rs 1800/-</p></div>
