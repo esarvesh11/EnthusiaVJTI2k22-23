@@ -9,7 +9,7 @@ function Chess() {
                     <img src="https://github.com/esarvesh11/Pictures/blob/main/images/Chess.jpg?raw=true" alt="Chess poster" className="h-96 scale-125 my-28 rounded-2xl " />
 
                 </div>
-                <div className="xl:ml-20 lg:ml-15 md:ml-12 mt-20 ">
+                <div className="xl:ml-20 lg:ml-15 md:ml-12 mt-16 ">
                     <div className="flex text-xl text-slate-200 justify-center mb-2">
                         <h2>Participation requirement:</h2>
                     </div>
@@ -26,9 +26,11 @@ function Chess() {
                     <div className="flex text-xl text-slate-200 justify-center mb-2">
                         <h2>Prize pool:</h2>
                     </div>
-                    <div className="font-sans text-lg text-bold text-slate-400 mb-4 font-extrabold"><p>Winner : Rs 4000/-</p></div>
-                    <div className="font-sans text-lg text-bold text-slate-400 mb-4 font-extrabold"><p>Runner up : Rs 2000/-</p></div>
-                    <div className="font-sans text-lg text-bold text-slate-400 mb-4 font-extrabold"><p>Category : Rs 1000/- (Best Female)</p></div>
+                    <div className="font-sans text-lg text-bold text-slate-400  font-extrabold"><p>1<sup>st</sup> : Rs 3500/-</p></div>
+                    <div className="font-sans text-lg text-bold text-slate-400  font-extrabold"><p>2<sup>nd</sup> : Rs 2500/-</p></div>
+                    <div className="font-sans text-lg text-bold text-slate-400  font-extrabold"><p>3<sup>rd</sup> : Rs 1800/-</p></div>
+                    <div className="font-sans text-lg text-bold text-slate-400  font-extrabold"><p>Category : Rs 1000/- (Best College)</p></div>
+                    <div className="font-sans text-lg text-bold text-slate-400  font-extrabold"><p>Category : Rs 1000/- (Best Female)</p></div>
                 </div>
 
             </div>
