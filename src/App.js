@@ -4,7 +4,6 @@ import "./App.css";
 import About from "./pages/About";
 import Events from "./pages/Events";
 import Team from "./pages/Team";
-import Team_MNC from "./pages/Team_MNC";
 import Marathon from "./pages/Marathon";
 import Valorant from "./pages/Valorant";
 import BGMI from "./pages/BGMI";
@@ -36,7 +35,6 @@ function App() {
           <Route path="/about" component={About} />
           <Route path="/events" component={Events} />
           <Route path="/team" component={Team} />
-          <Route path="/team_mnc" component={Team_MNC} />
           <Route path="/marathon" component={Marathon} />
           <Route path="/valorant" component={Valorant} />
           <Route path="/bgmi" component={BGMI} />

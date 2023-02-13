@@ -11,6 +11,7 @@ const navigation = [
   { name: "About", href: "/about", current: false },
   { name: "Events", href: "/events", current: false },
   { name: "Gallery", href: "/Gallery", current: false },
+  { name: "Team", href: "/Team", current: false }
 ];
 
 function classNames(...classes) {
@@ -73,29 +74,6 @@ function Navbar() {
                   </div>
                 </div>
 
-                <div className="hidden ml-8 md:block md:ml-3">
-                  <div className="flex space-x-4">
-                    <div
-                      // key="Team"
-                      // href="/Team"
-                      className={classNames(
-                        false
-                          ? "text-white"
-                          : "text-gray-500 hover:text-orange-100",
-                        `px-3 py-2 rounded-md text-xl font-medium relative inline-block ${styles.dropdown}`
-                      )}
-                      aria-current={false ? "page" : undefined}
-                    >
-                      <span>Teams</span>
-                      <div className={styles.dropdown_content}>
-                        <a href="/Team" className="text-black" >Core Team</a>
-                        <a href="/Team_MNC" className="text-black" >MNC Team</a>
-                      </div>
-
-                    </div>
-
-                  </div>
-                </div>
               </div>
               <div className="absolute inset-y-0 right-0 flex items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0">
                 <Menu as="div" className="ml-3 relative">
@@ -140,36 +118,7 @@ function Navbar() {
                   {item.name}
                 </NavLink>
               ))}
-              {/* <a
-                key="Team"
-                href="/Team"
-                className={classNames(
-                  false ? "text-white" : "text-gray-500 hover:text-orange-100",
-                  "block px-2 py-2 rounded-md text-base font-medium border-2 border-gray-500"
-                )}
-                aria-current={false ? "page" : undefined}
-              >
-                Team
-              </a> */}
-              <div
-                // key="Team"
-                // href="/Team"
-                className={classNames(
-                  false
-                    ? "text-white"
-                    : "text-gray-500 hover:text-orange-100",
-                  `px-3 py-2 rounded-md text-xl font-medium border-2 border-gray-500  ${styles.dropdown}`
-                )}
-                aria-current={false ? "page" : undefined}
-              >
-                <span className="rounded-md text-lg font-medium no-underline">Teams
-                </span>
-                <div className={styles.dropdown_content}>
-                  <a href="/Team" className="text-black " >Core Team</a>
-                  <a href="/Team_MNC" className="text-black" >MNC Team</a>
-                </div>
-
-              </div>
+              
             </div>
           </Disclosure.Panel>
         </>
