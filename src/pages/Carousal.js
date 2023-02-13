@@ -15,8 +15,8 @@ function Carousal() {
                 <Carousel.Item>
                     <img
                         className="d-block w-100 "
-                        src="https://github.com/vishaldhangar15/Images/blob/main/cr_final.jpg?raw=true"
-                        alt="Second slide"
+                        src="https://ik.imagekit.io/jjrubqbgu/01.jpg"
+                        alt="First slide"
                     />
 
                     <Carousel.Caption>
@@ -27,8 +27,8 @@ function Carousal() {
                 <Carousel.Item>
                     <img
                         className="d-block w-100 "
-                        src="https://github.com/vishaldhangar15/Images/blob/main/image%20(1).png?raw=true"
-                        alt="Fourth slide"
+                        src="https://ik.imagekit.io/jjrubqbgu/02.jpg"
+                        alt="Second slide"
                     />
 
                     <Carousel.Caption>
@@ -40,8 +40,8 @@ function Carousal() {
                 <Carousel.Item>
                     <img
                         className="d-block w-100 "
-                        src="https://github.com/vishaldhangar15/Images/blob/main/image%20(2).png?raw=true"
-                        alt="Fifth slide"
+                        src="https://ik.imagekit.io/jjrubqbgu/03.jpg"
+                        alt="Third slide"
                     />
 
                     <Carousel.Caption>
@@ -53,8 +53,8 @@ function Carousal() {
                 <Carousel.Item>
                     <img
                         className="d-block w-100 "
-                        src="https://github.com/vishaldhangar15/Images/blob/main/image%20(3).png?raw=true"
-                        alt="Sixth slide"
+                        src="https://ik.imagekit.io/jjrubqbgu/04.jpg"
+                        alt="Fourth slide"
                     />
 
                     <Carousel.Caption>
@@ -66,8 +66,21 @@ function Carousal() {
                 <Carousel.Item>
                     <img
                         className="d-block w-100 "
-                        src="https://github.com/vishaldhangar15/Images/blob/main/image%20(4).png?raw=true"
-                        alt="Seventh slide"
+                        src="https://ik.imagekit.io/jjrubqbgu/05.jpg"
+                        alt="Fifth slide"
+                    />
+
+                    <Carousel.Caption>
+                        {/* <h3>seventh slide label</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p> */}
+                    </Carousel.Caption>
+                </Carousel.Item>
+
+                <Carousel.Item>
+                    <img
+                        className="d-block w-100 "
+                        src="https://ik.imagekit.io/jjrubqbgu/06.jpg"
+                        alt="Sixth slide"
                     />
 
                     <Carousel.Caption>
