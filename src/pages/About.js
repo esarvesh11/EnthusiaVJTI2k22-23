@@ -16,7 +16,7 @@ function About() {
             students with the much-needed physical activity amidst their busy
             academic schedule. We, at VJTI, are fortunate to have a basketball
             court, cricket ground, football ground, and an indoor and outdoor
-            Gymnasium.
+            Gymnasium. Sarvesh Ekanth SHirude
           </h2>{" "}
         </div>
       </div>
